@@ -4,15 +4,13 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "9A4EEE90-92CF-4E70-AD0E-937DD71EA6BC",
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 116,
-  "do_objectID": "C6B5CE47-87A1-4FC7-9A73-BF85E5BFCEF0",
+  "changeIdentifier": 123,
+  "do_objectID": "6E23AE2B-1777-4F6A-8F68-E5175D6C6B50",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "656834EB-6844-4D5D-AD3A-5CB1AF9BFABB",
     "exportFormats": [
       {
         "_class": "exportFormat",
@@ -50,18 +48,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3BEA04AA-E647-4C24-91B1-1E3655B5600B",
     "height": 24,
     "width": 24,
-    "x": 0,
+    "x": 124,
     "y": 18200
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "47FD4765-5CA1-437C-97CD-4612A670C5AD",
     "guides": [
     ]
   },
@@ -73,19 +69,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "A51D0DA7-BCB9-4E3E-804E-6F3300BC097F"
+      "id": "C0769A83-F1E9-46C3-BABA-40872370F804"
     },
     {
       "class": "shapeGroup",
-      "id": "9125BCC0-DC87-4484-86ED-DE76E51073DE"
+      "id": "92BA4186-A1F8-4BFC-BB95-DC7206B25BD8"
     }
   ],
-  "name": "ico_facebook",
-  "nameIsFixed": false,
+  "name": "ico_facebook_bw",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -93,12 +89,11 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "BE083AF2-3B4F-4A90-91ED-CBE61B776003",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7A570DE0-40FA-4C84-9862-AF530338F6DC",
+  "symbolID": "4B6DD6F0-F5E4-4487-A8FE-04B53F0216EC",
   "userInfo": {
     "io.magicsketch.mirror": {
       "highestQuality": 3
@@ -107,7 +102,6 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "C4E6D8DD-126A-487C-9957-A88D7F8671B2",
     "guides": [
     ]
   }
