@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FFC93F81-4AEC-4156-AC79-7369B4075A49",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23ABE567-21E7-45B8-9C5B-46492F8C3687",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79E05A79-E961-4BCD-A066-040E474E0560",
+    "height": 24,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "article/sectionTitle/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "37AF2219-0FCF-4BF4-9AAA-99A4D4601E30_stringValue",
+      "value": "帳戶相關"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAAD3302-6FD6-421A-9B5F-86BB5A749E26_symbolID",
+      "value": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+    }
+  ],
+  "overrides": {
+    "37AF2219-0FCF-4BF4-9AAA-99A4D4601E30": "帳戶相關",
+    "DAAD3302-6FD6-421A-9B5F-86BB5A749E26": {
+      "symbolID": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "205A3C36-B2D7-43C8-9CE9-2D60A60FE932",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C869FD41-A1AD-4687-A782-5908CBDF00FB",
+  "verticalSpacing": 0
+}

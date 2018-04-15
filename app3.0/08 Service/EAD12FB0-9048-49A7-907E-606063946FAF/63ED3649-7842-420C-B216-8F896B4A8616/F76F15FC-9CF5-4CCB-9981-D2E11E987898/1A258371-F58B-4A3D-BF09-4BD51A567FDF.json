@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A258371-F58B-4A3D-BF09-4BD51A567FDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDDD8FB8-D833-408B-8D78-E000AF4C233B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E255CB74-FC62-4199-871C-FFF1A9BB91D1",
+    "height": 109,
+    "width": 109,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tile/service1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C4B3CD6-DDD5-416F-B325-AA89A76B679D_stringValue",
+      "value": "天氣"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D040414-10F6-48C3-90BB-EC91DEE5F0BE_symbolID",
+      "value": "52A2ABC5-C915-496C-8ECD-259DE0BF812C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2518C891-3E61-403F-936A-8C64F1A993CB_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "2518C891-3E61-403F-936A-8C64F1A993CB": {
+      "symbolID": ""
+    },
+    "5C4B3CD6-DDD5-416F-B325-AA89A76B679D": "天氣",
+    "9D040414-10F6-48C3-90BB-EC91DEE5F0BE": {
+      "symbolID": "52A2ABC5-C915-496C-8ECD-259DE0BF812C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0CCAA81E-BEF5-46EA-B2A2-5EF46306424F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ABAE6D9F-09E0-44F5-A5A6-3F304D64BFFA",
+  "verticalSpacing": 0
+}

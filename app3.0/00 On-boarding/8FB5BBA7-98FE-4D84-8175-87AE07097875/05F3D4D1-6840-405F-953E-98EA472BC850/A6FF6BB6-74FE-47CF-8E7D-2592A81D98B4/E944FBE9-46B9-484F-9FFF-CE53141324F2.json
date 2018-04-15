@@ -1,0 +1,135 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E944FBE9-46B9-484F-9FFF-CE53141324F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B81C5C4-D105-4691-B52B-CD496D466A32",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26249744-CFDB-4375-A838-CE9612E3D3EA",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 324
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F61FBB0-0EE6-44E9-8AC8-1AE5F00DE346_stringValue",
+      "value": "【氣候真相】大澳或消失？環團眾籌人力物力　3月辦教育籌款行"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9306683E-D1FA-4ED2-885B-F928CC89DEBE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A/312375DB-F8BC-4A72-B655-B2897393E9C1_stringValue",
+      "value": "05:38"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6718C134-E5B2-4FF5-8974-8392832ED577_stringValue",
+      "value": "3小時前"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "926821FB-367B-4618-8540-3398414AC2C6_stringValue",
+      "value": "社區"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A/A32C33A1-4523-44E9-9EDF-A5D6EDE4E7E9/368D7AD8-81DC-4165-B381-C83A19545C58_symbolID",
+      "value": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3678976-E592-4DEF-9486-B6928FF05B27",
+      "overrideName": "EA587F59-AB17-4E1E-811D-3683EFD8D371_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "04483FC4-FCEE-465A-96E9-F35FA21D1FBE",
+      "overrideName": "7228A1FB-8DF8-4BDC-914C-D108F5C0A50C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC4FF1AA-8FA1-4466-9249-819AC22709A3",
+      "overrideName": "366F72D0-5ECB-45C5-9994-B264B9C5536E_symbolID",
+      "value": "8EF5215E-3DAF-49DF-9E63-43E75C9C145C"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0167AFD8-079C-4C6A-9CFB-F28F20D69FE4",
+      "overrideName": "366F72D0-5ECB-45C5-9994-B264B9C5536E/7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/93c92d5d2a58efa45369024bc32af60ebb96fd3d",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "031197C9-351B-42D9-86DC-ACFE7C6EF58A": {
+      "312375DB-F8BC-4A72-B655-B2897393E9C1": "05:38",
+      "A32C33A1-4523-44E9-9EDF-A5D6EDE4E7E9": {
+        "368D7AD8-81DC-4165-B381-C83A19545C58": {
+          "symbolID": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+        }
+      }
+    },
+    "366F72D0-5ECB-45C5-9994-B264B9C5536E": {
+      "7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/93c92d5d2a58efa45369024bc32af60ebb96fd3d",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "8EF5215E-3DAF-49DF-9E63-43E75C9C145C"
+    },
+    "6718C134-E5B2-4FF5-8974-8392832ED577": "3小時前",
+    "7228A1FB-8DF8-4BDC-914C-D108F5C0A50C": {
+      "symbolID": ""
+    },
+    "926821FB-367B-4618-8540-3398414AC2C6": "社區",
+    "9306683E-D1FA-4ED2-885B-F928CC89DEBE": {
+      "symbolID": ""
+    },
+    "9F61FBB0-0EE6-44E9-8AC8-1AE5F00DE346": "【氣候真相】大澳或消失？環團眾籌人力物力　3月辦教育籌款行",
+    "EA587F59-AB17-4E1E-811D-3683EFD8D371": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC6FE3D3-49D2-48B2-ABE0-01403501F802",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "verticalSpacing": 0
+}

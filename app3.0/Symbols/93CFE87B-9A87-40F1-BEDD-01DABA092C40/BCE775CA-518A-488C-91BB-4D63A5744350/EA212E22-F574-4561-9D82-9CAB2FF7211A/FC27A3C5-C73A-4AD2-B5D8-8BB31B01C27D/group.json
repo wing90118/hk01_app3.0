@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "FC27A3C5-C73A-4AD2-B5D8-8BB31B01C27D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "02A74741-383C-4CC7-AC81-3045E3A97D29",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9208CE03-D253-4C39-8C47-6F94D33A8659",
+    "height": 9,
+    "width": 429,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "26F89FF2-21A0-44C7-9B8E-1B46D135B7FE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A6C981BD-A27C-460F-8DFA-82A41670EA8D"
+    }
+  ],
+  "name": "Network Line",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BE9FAB1F-DAA5-41E0-B17F-43A1099FDE8F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.7,
+      "type": 0
+    },
+    "do_objectID": "093AC11C-5B63-4156-B526-96EC3922B806",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

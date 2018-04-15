@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "424D0EAC-9C3E-4284-9138-94FED613473E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EAFFBC33-E8F3-4E8C-9B42-01353E8BB3F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4397F1E8-ECF3-433F-A5B0-7A03F90CA5D9",
+    "height": 24,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "article/sectionTitle/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "37AF2219-0FCF-4BF4-9AAA-99A4D4601E30_stringValue",
+      "value": "其他資訊"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAAD3302-6FD6-421A-9B5F-86BB5A749E26_symbolID",
+      "value": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+    }
+  ],
+  "overrides": {
+    "37AF2219-0FCF-4BF4-9AAA-99A4D4601E30": "其他資訊",
+    "DAAD3302-6FD6-421A-9B5F-86BB5A749E26": {
+      "symbolID": "85D60749-09C7-42DD-BDC0-93D9691529F1"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C8159DB-164B-433A-B6C4-E5FD267B7E8C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C869FD41-A1AD-4687-A782-5908CBDF00FB",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,139 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "23CDD5C3-D639-4649-BCCB-210D9D95305F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "034CA115-7482-4062-B234-DC9F2AA2F8A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D723396E-7A05-4E00-8D28-23B1D24906B5",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/navBar/mainSearch",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "484DB9EC-FD1E-4048-AFCB-F1C1F6FF6957/252B6716-9660-439F-BCCE-BEE98744357C_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "484DB9EC-FD1E-4048-AFCB-F1C1F6FF6957/136F637A-6851-45F8-A1F4-105A15C9CD83_symbolID",
+      "value": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "484DB9EC-FD1E-4048-AFCB-F1C1F6FF6957/136F637A-6851-45F8-A1F4-105A15C9CD83/D6F05800-7155-41FB-9652-3F7C5113318B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d48b786478e00f54c3295f24e805f90250429d7c",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65AB2262-529E-4ED4-9562-EFC3A277D8FB/8AB5B74E-A111-41E3-9DA8-7C7604A376F1/6B12C536-02C0-4D16-A377-9163891CC8BE_symbolID",
+      "value": "311B137A-8953-4BE5-8EDA-C540FD71964E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "49F3333B-5E8C-4E9F-8C1A-E362271896F6/C77899FD-AD72-45B9-BA3E-3DDB961A55BF/D6F05800-7155-41FB-9652-3F7C5113318B_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8c10c40ad487a3c79d4c0ff6467eee6c64ccaa64",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "65AB2262-529E-4ED4-9562-EFC3A277D8FB/12329C82-BF07-42A5-9EC0-8A785A658545_stringValue",
+      "value": "陽春白雪"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "177C6E93-58DD-4101-96E6-26BB4EDDBA31_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "252379E1-8B4F-4840-8B93-E94BDE61B422_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "177C6E93-58DD-4101-96E6-26BB4EDDBA31": {
+      "symbolID": ""
+    },
+    "252379E1-8B4F-4840-8B93-E94BDE61B422": {
+      "symbolID": ""
+    },
+    "484DB9EC-FD1E-4048-AFCB-F1C1F6FF6957": {
+      "136F637A-6851-45F8-A1F4-105A15C9CD83": {
+        "D6F05800-7155-41FB-9652-3F7C5113318B": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/d48b786478e00f54c3295f24e805f90250429d7c",
+          "_ref_class": "MSImageData"
+        },
+        "symbolID": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+      },
+      "252B6716-9660-439F-BCCE-BEE98744357C": {
+        "symbolID": ""
+      }
+    },
+    "49F3333B-5E8C-4E9F-8C1A-E362271896F6": {
+      "C77899FD-AD72-45B9-BA3E-3DDB961A55BF": {
+        "D6F05800-7155-41FB-9652-3F7C5113318B": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/8c10c40ad487a3c79d4c0ff6467eee6c64ccaa64",
+          "_ref_class": "MSImageData"
+        }
+      }
+    },
+    "65AB2262-529E-4ED4-9562-EFC3A277D8FB": {
+      "12329C82-BF07-42A5-9EC0-8A785A658545": "陽春白雪",
+      "8AB5B74E-A111-41E3-9DA8-7C7604A376F1": {
+        "6B12C536-02C0-4D16-A377-9163891CC8BE": {
+          "symbolID": "311B137A-8953-4BE5-8EDA-C540FD71964E"
+        }
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B71C7803-54AE-4C6A-9B7E-2194429305A1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B4979FB6-A5CB-41CA-9B8D-891A28DB5CD7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

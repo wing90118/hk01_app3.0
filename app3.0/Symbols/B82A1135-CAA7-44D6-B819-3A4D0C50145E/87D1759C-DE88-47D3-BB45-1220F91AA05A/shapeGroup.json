@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "87D1759C-DE88-47D3-BB45-1220F91AA05A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F17E34A2-1491-41DD-9D8B-68082D43EE6F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E75BD275-B3FE-48B2-9A55-1FE45A1E0459",
+    "height": 24,
+    "width": 26,
+    "x": 1,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A4064069-5747-47CF-AE44-21FFEC2DD3AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "478B6B16-A05C-4D8A-9821-28C302BCAC1E"
+    }
+  ],
+  "name": "Fill 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6E6A7BEC-AF04-47BD-8D50-BB2B379D3090",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.789678784167455,
+      "type": 0
+    },
+    "do_objectID": "51F34170-33BF-44EB-B9FB-B2A0DD7B9BF4",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9333333333333333,
+          "green": 0.2000000000000001,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

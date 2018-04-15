@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "17C56474-12BC-4E64-8C4B-8A47AD94EAFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D605746-58FB-4F61-B0B5-F10953D40EC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A8D999A-A507-40B5-A091-95D8B8351D42",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 4
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/comment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/8235F215-9730-41B3-844B-8FF4BCFFD93B_stringValue",
+      "value": "搶先首個評論⋯"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3083FD2-30BA-4EA6-A715-959888B14F80_symbolID",
+      "value": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E61C60E-580E-4E7E-B923-D508AA9478FF_symbolID",
+      "value": "2EDAB275-C11D-493D-88E9-CFA2976AE7D8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/47C50044-EC9E-4496-BAA8-CC8C268B347B_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "594177B3-3237-4C25-8BBF-14F0C4280123/09E2F9D8-453A-4880-B955-C589B50203AC_stringValue",
+      "value": "搶先發表首個評論⋯"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A5183F87-BE3F-46C5-854E-7C0FCB0403CD",
+      "overrideName": "C5A4D0B1-A2A6-4222-89C9-46B231C8616A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1C254249-088D-411E-8924-B29CA7440258": {
+      "47C50044-EC9E-4496-BAA8-CC8C268B347B": " ",
+      "8235F215-9730-41B3-844B-8FF4BCFFD93B": "搶先首個評論⋯"
+    },
+    "594177B3-3237-4C25-8BBF-14F0C4280123": {
+      "09E2F9D8-453A-4880-B955-C589B50203AC": "搶先發表首個評論⋯"
+    },
+    "9E61C60E-580E-4E7E-B923-D508AA9478FF": {
+      "symbolID": "2EDAB275-C11D-493D-88E9-CFA2976AE7D8"
+    },
+    "C5A4D0B1-A2A6-4222-89C9-46B231C8616A": {
+      "symbolID": ""
+    },
+    "F3083FD2-30BA-4EA6-A715-959888B14F80": {
+      "symbolID": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2047110E-1D9B-4281-9402-0B929B0B0522",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "C4754E5A-FF44-49EA-A7B7-2586299351E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,140 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.98189777135849,
+    "do_objectID": "6B9399B4-316A-4739-A5C4-B6BC6723EAE9",
+    "green": 0.9645994305610657,
+    "red": 0.9600604176521301
+  },
+  "do_objectID": "BBF61D87-43A7-4EFF-B365-6827E1BB72AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CECA8213-D7CF-4D87-83EB-F5D364317D51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EAE4E4F-34B1-45FF-81EF-895172F0C746",
+    "height": 667,
+    "width": 375,
+    "x": -1226,
+    "y": -184
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AFC7BD08-5694-4F47-A996-FF85DD57EA40",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8DE3987B-28AC-4C20-A289-45A9E7574380"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "681FC097-3F11-434B-A00D-DAEF47954532"
+    },
+    {
+      "class": "text",
+      "id": "0E5A83CF-AC1A-4F67-974A-6E4461065F0E"
+    },
+    {
+      "class": "text",
+      "id": "B85D085F-7710-4214-B30B-18C2B433772E"
+    },
+    {
+      "class": "text",
+      "id": "5C06143D-7320-4AB9-966E-8A89379B8408"
+    },
+    {
+      "class": "group",
+      "id": "A85A460F-5286-4E87-B2C9-0816D8E0C914"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9EF3B39-0082-4134-80DD-9E230AB96291"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 16,
+    "do_objectID": "A65A774B-E18B-4551-92AB-E94E870683D5",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 343,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Phone Login PIN code OffFocus",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7598874E-858F-4B51-8ECF-06FAEA1F23AB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7484B5D7-0152-4D7F-9B0D-3731BB33C7FC",
+    "guides": [
+    ]
+  }
+}

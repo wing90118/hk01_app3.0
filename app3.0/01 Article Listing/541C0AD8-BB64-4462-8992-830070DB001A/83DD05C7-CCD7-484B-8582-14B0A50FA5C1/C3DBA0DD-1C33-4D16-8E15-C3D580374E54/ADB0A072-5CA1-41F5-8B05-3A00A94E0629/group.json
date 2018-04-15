@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "ADB0A072-5CA1-41F5-8B05-3A00A94E0629",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "01FBA1D9-15FB-4504-B7E4-63ACCB9D1BCF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8AD9546-530D-4B7B-8440-D30ADD052068",
+    "height": 264,
+    "width": 247,
+    "x": 24,
+    "y": 40
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "2FE04909-6EE1-4890-B765-F8BD7F880DE3"
+    },
+    {
+      "class": "text",
+      "id": "0E93F2CD-D4B5-4D5D-A003-A31712C05BDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E01D0D9-7285-46D8-B856-25E5C941D589"
+    }
+  ],
+  "name": "upperPart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "05707D5B-0D40-4635-9431-58E08ECF40B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "bottom": {
+            "constant": 75,
+            "enabled": 1,
+            "modelID": "constraint_82c965a3-1fd4-4f46-bd44-8d3130139214",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_1921f900-4cd3-4edd-bdaa-6ffce67861d7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_1f789303-7ecb-403d-8a8b-548e972a215c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "right": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_d3afe10e-160e-4353-9fc3-9a4043c502a6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "scaleFactor": 1,
+          "top": {
+            "constant": 40,
+            "enabled": 1,
+            "modelID": "constraint_68816c68-9218-47a8-9738-50a78a5a6037",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "width": {
+            "constant": 247,
+            "enabled": 1,
+            "modelID": "constraint_171359b3-3681-4358-ac75-32a7adb1566e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  }
+}

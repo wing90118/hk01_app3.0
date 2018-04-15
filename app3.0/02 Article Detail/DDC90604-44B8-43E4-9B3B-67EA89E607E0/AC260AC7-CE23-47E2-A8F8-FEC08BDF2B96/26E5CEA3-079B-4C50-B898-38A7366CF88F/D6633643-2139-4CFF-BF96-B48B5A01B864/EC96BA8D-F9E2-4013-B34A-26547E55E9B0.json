@@ -1,0 +1,107 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EC96BA8D-F9E2-4013-B34A-26547E55E9B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "61BB544A-42C6-4E3F-8784-DC7E74084DE7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7807F819-B39E-43A6-8DC7-D34AC3C17FE7",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 384
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDF376B5-D117-4424-9CE3-DA7A3CFAA171_stringValue",
+      "value": "【國情咨文】脫北者也是座上客　第一夫人、民主黨人黑面依舊"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D/833000CD-8164-4220-B105-762AD891E84F_stringValue",
+      "value": "05:23"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7A647AC-E6B9-4923-A65B-85C07D718C52_stringValue",
+      "value": "2018-01-23"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68E9AEF3-6058-40A7-AB0C-22526B77881F_stringValue",
+      "value": "國際"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D9E79F7E-35C3-4CF5-A19F-06FC8E163BA2",
+      "overrideName": "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF/3FF16639-D265-4B0D-A6C2-6EAE3E0324E8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2eae97c6d2e745d92448b350a70d9408decf579a",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BD60DB9-E150-4D81-8A75-E1E88B3CE2D6",
+      "overrideName": "CE8E8F05-A28C-4610-8AED-094121543ACC/833000CD-8164-4220-B105-762AD891E84F_stringValue",
+      "value": "20圖"
+    }
+  ],
+  "overrides": {
+    "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF": {
+      "3FF16639-D265-4B0D-A6C2-6EAE3E0324E8": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2eae97c6d2e745d92448b350a70d9408decf579a",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "68E9AEF3-6058-40A7-AB0C-22526B77881F": "國際",
+    "A7A647AC-E6B9-4923-A65B-85C07D718C52": "2018-01-23",
+    "CDF376B5-D117-4424-9CE3-DA7A3CFAA171": "【國情咨文】脫北者也是座上客　第一夫人、民主黨人黑面依舊",
+    "CE8E8F05-A28C-4610-8AED-094121543ACC": {
+      "833000CD-8164-4220-B105-762AD891E84F": "20圖"
+    },
+    "D4B21417-753A-4631-95F9-9D7CC9066D2D": {
+      "833000CD-8164-4220-B105-762AD891E84F": "05:23",
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE8E3C40-B3C6-47AE-9C65-D12B03A8A64E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "verticalSpacing": 0
+}

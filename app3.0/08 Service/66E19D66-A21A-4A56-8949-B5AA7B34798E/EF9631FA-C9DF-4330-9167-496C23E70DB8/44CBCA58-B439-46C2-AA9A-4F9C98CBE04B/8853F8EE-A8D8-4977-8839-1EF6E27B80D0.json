@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8853F8EE-A8D8-4977-8839-1EF6E27B80D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "155CB9A6-B630-4FC7-AE83-F5F14C3DF875",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9D368756-BD4D-4245-90C7-05DC3A008ED3",
+    "height": 109,
+    "width": 109,
+    "x": 234,
+    "y": 117
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tile/service6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C4B3CD6-DDD5-416F-B325-AA89A76B679D_stringValue",
+      "value": "01墟市"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D040414-10F6-48C3-90BB-EC91DEE5F0BE_symbolID",
+      "value": "1F230548-8301-41EA-949D-1068376DC419"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2518C891-3E61-403F-936A-8C64F1A993CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "44AB2B49-2F5A-460F-8191-B8CA8DF7C274_symbolID",
+      "value": "1F230548-8301-41EA-949D-1068376DC419"
+    }
+  ],
+  "overrides": {
+    "2518C891-3E61-403F-936A-8C64F1A993CB": {
+      "symbolID": ""
+    },
+    "44AB2B49-2F5A-460F-8191-B8CA8DF7C274": {
+      "symbolID": "1F230548-8301-41EA-949D-1068376DC419"
+    },
+    "5C4B3CD6-DDD5-416F-B325-AA89A76B679D": "01墟市",
+    "9D040414-10F6-48C3-90BB-EC91DEE5F0BE": {
+      "symbolID": "1F230548-8301-41EA-949D-1068376DC419"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F22D7854-6103-4790-943C-7A93BBA9458E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8DE518F6-DB73-41AC-B863-62A1454D85FD",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "978C1509-9BB6-4CE1-B1BC-59A4DA561D32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1CDE6FBD-EFCE-4713-A944-34E3F9AC3A1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66B05181-0125-4118-8791-6A5CDFB46DB9",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Activity View/Customized BottomSheet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1032C35B-495C-4CD3-8B37-D4E55B3605B6",
+      "overrideName": "62FCA171-0E4B-45D3-A88B-AC78BBF3569C_symbolID",
+      "value": "A9CC200F-A93D-4D0F-BBE6-15978AC9FD5A"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09029E25-E8A0-4B70-86CD-7D901F4C3AC0",
+      "overrideName": "FA4EB0FA-1CF0-463D-AA7C-DD5FC85065DE_stringValue",
+      "value": "允許接收 香港01 推播通知"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "55387F53-0CBD-4989-B533-CF259C148954",
+      "overrideName": "BC3CA8E3-8B35-415F-9122-8C53B5F0BBB5_stringValue",
+      "value": "若接收推播通知，將可以搶先一步獲得更快的新聞資訊、活動日程、服務消息等。"
+    }
+  ],
+  "overrides": {
+    "62FCA171-0E4B-45D3-A88B-AC78BBF3569C": {
+      "symbolID": "A9CC200F-A93D-4D0F-BBE6-15978AC9FD5A"
+    },
+    "BC3CA8E3-8B35-415F-9122-8C53B5F0BBB5": "若接收推播通知，將可以搶先一步獲得更快的新聞資訊、活動日程、服務消息等。",
+    "FA4EB0FA-1CF0-463D-AA7C-DD5FC85065DE": "允許接收 香港01 推播通知"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AEC2608C-6385-4252-B4E1-755D3C007E14",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CD9FC208-ADEC-4EB4-8766-B7FF431ECF5F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B6B1F9BD-DCB7-44CC-A96B-871FC87A59D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F140D15C-2866-46F2-94BA-5AAADDF5BD4A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "21FF0841-E55C-4518-80E9-3D21D1156B34",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 1296
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7659D977-D293-4C3E-AE4E-C688D19EBF38_stringValue",
+      "value": "2018-01-25"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A_stringValue",
+      "value": "閱讀全文"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC_stringValue",
+      "value": "【豬手食譜】南乳蓮藕燜豬手惹味帶酒香　南乳為什麼紅色？"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8FA7808-F470-428B-BA53-E309D7AF9A14/0C855B2C-DE01-4F4B-963E-882E428D376B_stringValue",
+      "value": "00:52"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B17F9C02-044A-4DF2-9F80-40F2FD0562D3/D52F8608-5FBB-4E3A-8C84-87FF369BA313_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/74d1741c23dc4e739bb81dce8e7dfa555215907d",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC": "【豬手食譜】南乳蓮藕燜豬手惹味帶酒香　南乳為什麼紅色？",
+    "7659D977-D293-4C3E-AE4E-C688D19EBF38": "2018-01-25",
+    "B17F9C02-044A-4DF2-9F80-40F2FD0562D3": {
+      "D52F8608-5FBB-4E3A-8C84-87FF369BA313": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/74d1741c23dc4e739bb81dce8e7dfa555215907d",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A": "閱讀全文",
+    "B8FA7808-F470-428B-BA53-E309D7AF9A14": {
+      "0C855B2C-DE01-4F4B-963E-882E428D376B": "00:52"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9CA7ACA-3775-4F7B-8DAA-76E49BE54EC0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B45657F-51CA-46A3-ACFD-FAA003FCF625",
+  "verticalSpacing": 0
+}

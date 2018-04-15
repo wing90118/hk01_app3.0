@@ -1,0 +1,129 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "74224C48-FCC4-41E8-A3D6-5104F9D979E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C340F378-D515-42E0-B17F-8B8071DD440D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E1D88548-0D34-43CA-8D97-D245453692A7",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Action Sheet",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D6E7E03-9F31-41F5-93DE-1895F6D3CB04_symbolID",
+      "value": "5E20BD0D-36EC-461D-9D61-07CDADB67E72"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EAF858B3-3722-41CE-9ECB-F31ED8B8DD63_symbolID",
+      "value": "B0D22778-D218-46AD-B2F9-F90040E7CB93"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D268C27-2D47-4D21-BCF0-F50FAB7EAB86_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F98D0D6A-0C2F-4AE0-8894-816ED649665A_symbolID",
+      "value": "58D36368-51AC-4AB8-9CF1-4CC42620B111"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E35AFEBA-537F-4533-A72A-A607DD321D40_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F98D0D6A-0C2F-4AE0-8894-816ED649665A/25EA3D17-7309-44FA-AB2F-517E8C8A74FC_stringValue",
+      "value": "檢舉評論"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A8B946B7-7A92-4247-9E1D-131A4727ECD2/1A3C2FA4-A471-44E4-83CA-7140D78C182E_stringValue",
+      "value": "令人生厭"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "577A242B-21C5-459B-A568-CAF91971FE41/1A3C2FA4-A471-44E4-83CA-7140D78C182E_stringValue",
+      "value": "粗言穢語"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "EAF858B3-3722-41CE-9ECB-F31ED8B8DD63/1A3C2FA4-A471-44E4-83CA-7140D78C182E_stringValue",
+      "value": "色情內容"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4D6E7E03-9F31-41F5-93DE-1895F6D3CB04/5901105D-1E49-4FCD-AEE1-A9FE0229A86B_stringValue",
+      "value": "垃圾訊息"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F47F3F6-5736-4A82-AE18-E56EBB28764C_stringValue",
+      "value": "取消"
+    }
+  ],
+  "overrides": {
+    "3D268C27-2D47-4D21-BCF0-F50FAB7EAB86": {
+      "symbolID": ""
+    },
+    "4D6E7E03-9F31-41F5-93DE-1895F6D3CB04": {
+      "5901105D-1E49-4FCD-AEE1-A9FE0229A86B": "垃圾訊息",
+      "symbolID": "5E20BD0D-36EC-461D-9D61-07CDADB67E72"
+    },
+    "577A242B-21C5-459B-A568-CAF91971FE41": {
+      "1A3C2FA4-A471-44E4-83CA-7140D78C182E": "粗言穢語"
+    },
+    "9F47F3F6-5736-4A82-AE18-E56EBB28764C": "取消",
+    "A8B946B7-7A92-4247-9E1D-131A4727ECD2": {
+      "1A3C2FA4-A471-44E4-83CA-7140D78C182E": "令人生厭"
+    },
+    "E35AFEBA-537F-4533-A72A-A607DD321D40": {
+      "symbolID": ""
+    },
+    "EAF858B3-3722-41CE-9ECB-F31ED8B8DD63": {
+      "1A3C2FA4-A471-44E4-83CA-7140D78C182E": "色情內容",
+      "symbolID": "B0D22778-D218-46AD-B2F9-F90040E7CB93"
+    },
+    "F98D0D6A-0C2F-4AE0-8894-816ED649665A": {
+      "25EA3D17-7309-44FA-AB2F-517E8C8A74FC": "檢舉評論",
+      "symbolID": "58D36368-51AC-4AB8-9CF1-4CC42620B111"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB77B9A7-1F01-4EDE-AB7F-56C976A2F72F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B57BB685-6AE2-4DCC-A36C-3300A51789F1",
+  "verticalSpacing": 0
+}

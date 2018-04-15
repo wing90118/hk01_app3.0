@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "93D01E4E-0164-4578-A6EF-F47B58F58A88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7A192EA-6942-4E75-A0D7-C5B7DE986035",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F7B85142-D735-45A6-A5CA-0582EFA22390",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 1719
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A/312375DB-F8BC-4A72-B655-B2897393E9C1_stringValue",
+      "value": "06:21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3AF3EA4-F8C7-446D-9164-06299151AB1D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DDC79F15-1062-4D79-85FA-32CECA7D0C14_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C51084D6-9934-4702-B5E8-D7EB50DC54B8/3FF16639-D265-4B0D-A6C2-6EAE3E0324E8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d105842ac4f4ff745c87cb6f9e1f0dbc1b0f2a74",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AADCCA2B-4EA2-41DC-9FFD-888B79A85481_stringValue",
+      "value": "2018-02-21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "421905D1-A30B-47E1-B487-36808E4B51A6_stringValue",
+      "value": "藝文創意"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "00EE4078-5BB5-4E62-AE99-9B1451D63020_stringValue",
+      "value": "【預測】世界經濟論壇激發團隊創意　「發明」六種未來新職業"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5686AE39-C3FD-4633-BE8E-2927711F360D",
+      "overrideName": "9F3CF013-2EBF-4465-A883-324B20E5D6B7_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "00EE4078-5BB5-4E62-AE99-9B1451D63020": "【預測】世界經濟論壇激發團隊創意　「發明」六種未來新職業",
+    "031197C9-351B-42D9-86DC-ACFE7C6EF58A": {
+      "312375DB-F8BC-4A72-B655-B2897393E9C1": "06:21"
+    },
+    "421905D1-A30B-47E1-B487-36808E4B51A6": "藝文創意",
+    "9F3CF013-2EBF-4465-A883-324B20E5D6B7": {
+      "symbolID": ""
+    },
+    "AADCCA2B-4EA2-41DC-9FFD-888B79A85481": "2018-02-21",
+    "C51084D6-9934-4702-B5E8-D7EB50DC54B8": {
+      "3FF16639-D265-4B0D-A6C2-6EAE3E0324E8": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d105842ac4f4ff745c87cb6f9e1f0dbc1b0f2a74",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "DDC79F15-1062-4D79-85FA-32CECA7D0C14": {
+      "symbolID": ""
+    },
+    "F3AF3EA4-F8C7-446D-9164-06299151AB1D": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E1AF5AF-22A8-41EF-8637-4BA5256D8D25",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E3579A96-FF05-4431-A0FC-B99FBFDF89A2",
+  "verticalSpacing": 0
+}

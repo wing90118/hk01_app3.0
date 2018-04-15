@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "565A06AC-BDF1-450E-BFE7-1177E8CE70C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "980277DE-CB1A-4EA8-BD7B-EB98EAE45B31",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76018472-2904-41F4-8A68-BDB23F4D32F5",
+    "height": 109,
+    "width": 109,
+    "x": 234,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tile/service3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C4B3CD6-DDD5-416F-B325-AA89A76B679D_stringValue",
+      "value": "活動"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D040414-10F6-48C3-90BB-EC91DEE5F0BE_symbolID",
+      "value": "4E171AA3-9AB2-4B74-AB64-27D6D65D1810"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2518C891-3E61-403F-936A-8C64F1A993CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "44AB2B49-2F5A-460F-8191-B8CA8DF7C274_symbolID",
+      "value": "4E171AA3-9AB2-4B74-AB64-27D6D65D1810"
+    }
+  ],
+  "overrides": {
+    "2518C891-3E61-403F-936A-8C64F1A993CB": {
+      "symbolID": ""
+    },
+    "44AB2B49-2F5A-460F-8191-B8CA8DF7C274": {
+      "symbolID": "4E171AA3-9AB2-4B74-AB64-27D6D65D1810"
+    },
+    "5C4B3CD6-DDD5-416F-B325-AA89A76B679D": "活動",
+    "9D040414-10F6-48C3-90BB-EC91DEE5F0BE": {
+      "symbolID": "4E171AA3-9AB2-4B74-AB64-27D6D65D1810"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38E0B603-1328-4CC2-ADE9-C52F918838C1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ABAE6D9F-09E0-44F5-A5A6-3F304D64BFFA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

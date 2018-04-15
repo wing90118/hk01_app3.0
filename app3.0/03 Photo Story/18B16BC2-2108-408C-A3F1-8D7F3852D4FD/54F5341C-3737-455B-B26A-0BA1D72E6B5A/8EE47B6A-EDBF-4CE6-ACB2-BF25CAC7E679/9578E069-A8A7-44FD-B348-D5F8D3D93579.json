@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9578E069-A8A7-44FD-B348-D5F8D3D93579",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD1590BD-2DBB-4021-AEBB-B9C87D289EA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCE40E10-5238-4D37-96F5-41AD1458DBE0",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24BC969D-C68F-4718-A6C4-F6B4633EBB67_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5040E89D-5522-46A4-B86E-2FFBF53D64EA_symbolID",
+      "value": "2D7F6797-633E-4756-B985-B24C7A09546C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4ADB801-E79C-4C61-8317-EF6AA7964BF6_stringValue",
+      "value": "國際"
+    }
+  ],
+  "overrides": {
+    "24BC969D-C68F-4718-A6C4-F6B4633EBB67": " ",
+    "5040E89D-5522-46A4-B86E-2FFBF53D64EA": {
+      "symbolID": "2D7F6797-633E-4756-B985-B24C7A09546C"
+    },
+    "B4ADB801-E79C-4C61-8317-EF6AA7964BF6": "國際"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE2A24EC-9682-48B5-9870-35BAB070C0A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "957B89AD-3D55-4512-8172-10B9D6DF508E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

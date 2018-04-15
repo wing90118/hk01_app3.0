@@ -1,0 +1,117 @@
+{
+  "_class": "group",
+  "do_objectID": "B8A2DF22-3E45-4FF7-A5B3-FD09E6A257C5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2130EB7-481C-408C-8BBC-3919A0935D62",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41434E4E-48DF-487F-AD95-43553F8A2FD4",
+    "height": 807,
+    "width": 387,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "76C9B651-682B-42BC-AD31-BCE2FCA8BA73"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "602676A1-AB2F-4959-AE84-9888411B04B8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC49D528-B5C4-4872-8FF5-2827F4A70C35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7E1AE8C-C5AD-448B-B448-63B7C122F045"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D7A9B877-A58C-4781-8CC9-E8D0E34AB6C2"
+    },
+    {
+      "class": "group",
+      "id": "E11C6EE1-AD7E-4875-A142-A455146F73EB"
+    }
+  ],
+  "name": "White Iphone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "85DC4C04-3D62-40AD-84D3-131458AEE38F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.631236442516268,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.9631236442516269
+      }
+    ],
+    "do_objectID": "453556FF-312A-4FC1-9458-B72DD83360DB",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

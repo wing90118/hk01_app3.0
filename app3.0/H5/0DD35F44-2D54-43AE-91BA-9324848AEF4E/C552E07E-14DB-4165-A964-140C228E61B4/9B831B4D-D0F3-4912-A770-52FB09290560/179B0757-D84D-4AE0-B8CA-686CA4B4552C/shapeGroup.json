@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "179B0757-D84D-4AE0-B8CA-686CA4B4552C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7B0AE9DE-C507-4B83-9D82-76B1A8423519",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F6FC2ACF-10B6-4099-B277-C655E1E93957",
+    "height": 15.42721518987342,
+    "width": 8.7890625,
+    "x": 289.453125,
+    "y": 4.153481012658233
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E90841A4-AAF0-4757-9664-B63F86AACD0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B690D08C-EAAB-4F8A-AFB4-A9D09851AFF4"
+    },
+    {
+      "class": "shapePath",
+      "id": "A51111BF-2201-4C57-9B69-E803DD1F6267"
+    }
+  ],
+  "name": "Bluetooth Icon",
+  "nameIsFixed": true,
+  "originalObjectID": "956AF769-8ABD-4F32-8DD3-6DD99F3150A9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "750B6BF0-FF4A-4514-8320-81B3ED84925D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.859375,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.5859375
+      }
+    ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "6A224651-7E40-4E3B-AC0A-7EE9A3B4402A",
+      "opacity": 0.45
+    },
+    "do_objectID": "8DCA9655-C687-4D4C-9610-34B35C782246",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

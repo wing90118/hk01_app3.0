@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0DAB43C6-FFE6-472D-BD4C-53EB336540AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99959758-8A55-4B3A-B947-E9740ED2510B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03FC7A50-D723-482E-8EA9-9385C2B4C81F",
+    "height": 90,
+    "width": 375,
+    "x": 0,
+    "y": 160
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "inputField/2col/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2CB43A70-97BC-45A9-8F6E-25E8F08518C9_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1E7BF667-EB98-40CD-BCA9-637CFB6E28CA_stringValue",
+      "value": "92132303"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A38D880D-657B-476E-97DA-5AD910969D75/09E2F9D8-453A-4880-B955-C589B50203AC_stringValue",
+      "value": "驗證碼"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A38D880D-657B-476E-97DA-5AD910969D75/F7FDDE69-F2E3-4113-871C-F21720DAD79B_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4B1325E8-E754-4320-BC07-969B01BC4748_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A38D880D-657B-476E-97DA-5AD910969D75/89790103-2899-440F-AE4D-F5CCD7C5C0FD_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "1E7BF667-EB98-40CD-BCA9-637CFB6E28CA": "92132303",
+    "2CB43A70-97BC-45A9-8F6E-25E8F08518C9": " ",
+    "4B1325E8-E754-4320-BC07-969B01BC4748": " ",
+    "A38D880D-657B-476E-97DA-5AD910969D75": {
+      "09E2F9D8-453A-4880-B955-C589B50203AC": "驗證碼",
+      "89790103-2899-440F-AE4D-F5CCD7C5C0FD": {
+        "symbolID": ""
+      },
+      "F7FDDE69-F2E3-4113-871C-F21720DAD79B": " "
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6899C40-4198-4AFE-9707-C7CEE3CAAC07",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4A2D3D47-214A-463F-8266-56F854BBB278",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "3BF71988-1726-49D7-8004-F5C1594D8A79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "51A47E0E-FD6D-485A-98D3-21B0867ED8AD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CD4868B-00DB-4604-9900-456F1881254E",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "837E8408-8837-4CBA-AEAD-D4882CD800D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8177080F-68D3-4B3A-8C3D-B50C6A706D14"
+    }
+  ],
+  "name": "status_bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E90B7529-C3FB-41DF-B544-2052FBA29F59",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

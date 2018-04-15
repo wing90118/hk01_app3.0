@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "do_objectID": "53FB7A06-222E-47DC-9C27-5FC95134BD60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BAA71BE4-32FB-441C-8E39-72941C1DDB1E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CC0709F-2911-47FF-A8DD-FBB421814CA3",
+    "height": 112,
+    "width": 347,
+    "x": 16,
+    "y": 92
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4C217AB0-76BA-4E10-B88B-DB1A7EB50EFE"
+    },
+    {
+      "class": "group",
+      "id": "4AB83C7A-A3AA-4A94-8EC0-2968638BC37C"
+    },
+    {
+      "class": "text",
+      "id": "27D0BA64-A45F-49AA-BC9A-E03BD2FAA0B4"
+    },
+    {
+      "class": "text",
+      "id": "8F664801-FA5A-4EF5-8F44-336D01ECE4DA"
+    },
+    {
+      "class": "text",
+      "id": "7B2D0C11-41D8-4F3D-A1E2-D38BEB49CF95"
+    }
+  ],
+  "name": "selected",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1FBEA4D5-0055-4039-AA20-C7E9FD9B01B2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "47EBAF3D-397A-4481-8443-7F4DB8C1587B",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

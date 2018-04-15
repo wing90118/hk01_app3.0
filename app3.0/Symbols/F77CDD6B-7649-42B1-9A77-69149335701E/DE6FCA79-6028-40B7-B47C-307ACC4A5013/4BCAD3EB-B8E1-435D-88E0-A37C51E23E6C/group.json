@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "4BCAD3EB-B8E1-435D-88E0-A37C51E23E6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "80406AD8-57FD-468D-8AAE-D74A33AC9F6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DB4CFE9E-F2C0-438D-86AF-29138E451E1E",
+    "height": 40,
+    "width": 135,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E81F9A6A-21CA-4DB6-A304-76D7AF902845"
+    },
+    {
+      "class": "group",
+      "id": "AB29CB42-AAAB-47C0-ADAA-E47CB15BE4B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19E3BE50-19C9-4926-A1BA-365D5F5FF71F"
+    },
+    {
+      "class": "group",
+      "id": "E977A2C8-0FC3-4A50-813E-8DFFCB809D58"
+    }
+  ],
+  "name": "XMLID_19_",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7D5A5182-4C01-4616-ACC2-391D7EEF17DE",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.539823008849558,
+      "type": 0
+    },
+    "do_objectID": "595AC33D-3ACB-411E-B3C0-9E5CCAEBCCA0",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

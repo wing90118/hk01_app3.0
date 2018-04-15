@@ -1,0 +1,131 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4A95D56B-D278-4779-9075-8F8B946755A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72C4A873-8593-468F-919F-E8CA8D3111D6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3806C517-CC84-41A2-89FC-14177ED9322B",
+    "height": 130,
+    "width": 375,
+    "x": 0,
+    "y": 92
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "inputField/2col/default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D220E40D-C62C-43B5-80A3-471607C0FB04_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "59151A0F-8E5C-4393-927C-3A1AAF5DDE63_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F63638E-CBD5-4F58-8C4B-DFD564C675B1_stringValue",
+      "value": "請輸入正確手機號碼"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5035499B-D9A7-44EA-83D3-28D5A45115F4_stringValue",
+      "value": "手機號碼可作登入之用。如需綁定/更換手機號碼，請確保以上號碼正確，我們將發送6位數驗證碼核實。"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE_symbolID",
+      "value": "71E738C5-0CA2-4299-A521-881AB7E5673F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/F66FADB4-C2A8-496D-BC40-CC54A3AA91D3_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/3400EB81-406E-49AD-8C3A-8370DA479247_stringValue",
+      "value": "92132303"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D9C1829-B832-4F45-A9A9-3E3C8E9A0B94/2F3B90AA-F0F6-4138-AD03-1D79FB5381FA_symbolID",
+      "value": "15204ADC-5BBA-498C-BA6C-EEC73B05E2DF"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/8FDE5E3D-5CD5-4468-B79C-B715410CBF0F_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/3D39A953-CE97-4ACC-A1DE-2C59BAA9C0B4_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/4444F089-6163-4DD8-B4F5-7BBB4B88D695_stringValue",
+      "value": "+852"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37438945-D56D-42C1-B174-7C3A6B3401AE/38F51D73-4938-4898-9B0B-F0F26FF8D202_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "37438945-D56D-42C1-B174-7C3A6B3401AE": {
+      "3400EB81-406E-49AD-8C3A-8370DA479247": "92132303",
+      "38F51D73-4938-4898-9B0B-F0F26FF8D202": {
+        "symbolID": ""
+      },
+      "3D39A953-CE97-4ACC-A1DE-2C59BAA9C0B4": {
+        "symbolID": ""
+      },
+      "4444F089-6163-4DD8-B4F5-7BBB4B88D695": "+852",
+      "8FDE5E3D-5CD5-4468-B79C-B715410CBF0F": " ",
+      "F66FADB4-C2A8-496D-BC40-CC54A3AA91D3": " ",
+      "symbolID": "71E738C5-0CA2-4299-A521-881AB7E5673F"
+    },
+    "3D9C1829-B832-4F45-A9A9-3E3C8E9A0B94": {
+      "2F3B90AA-F0F6-4138-AD03-1D79FB5381FA": {
+        "symbolID": "15204ADC-5BBA-498C-BA6C-EEC73B05E2DF"
+      }
+    },
+    "5035499B-D9A7-44EA-83D3-28D5A45115F4": "手機號碼可作登入之用。如需綁定/更換手機號碼，請確保以上號碼正確，我們將發送6位數驗證碼核實。",
+    "59151A0F-8E5C-4393-927C-3A1AAF5DDE63": " ",
+    "9F63638E-CBD5-4F58-8C4B-DFD564C675B1": "請輸入正確手機號碼",
+    "D220E40D-C62C-43B5-80A3-471607C0FB04": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0501A08-5E0D-4C29-B000-587FC7F426DF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "399B6187-79F7-46E9-9A4E-2721F6950565",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D16AEFE4-69BA-4F94-B06F-6748A803CD74",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 1272,
+  "do_objectID": "78B0365F-07B2-430D-A942-F87FD6668B3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9942DADC-AACA-4343-9D45-7D3979875CFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "033243A1-6DB8-4FCC-98AE-751E97F7B44A",
+    "height": 216,
+    "width": 375,
+    "x": 0,
+    "y": 39780
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5AD5BD9A-6C30-4D94-AE10-23651175B6BB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2CD50067-EDA9-4BC4-8A75-CF6D0F878D04"
+    }
+  ],
+  "name": "keyboard/light/datePicker",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4EFFF16-7A56-4EF4-925B-F5E6AF2FCD38",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ECFD727B-88A9-40C0-84A6-2E891F71BFAD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5AF17022-BC55-434F-A110-E2E489455CC5",
+    "guides": [
+    ]
+  }
+}

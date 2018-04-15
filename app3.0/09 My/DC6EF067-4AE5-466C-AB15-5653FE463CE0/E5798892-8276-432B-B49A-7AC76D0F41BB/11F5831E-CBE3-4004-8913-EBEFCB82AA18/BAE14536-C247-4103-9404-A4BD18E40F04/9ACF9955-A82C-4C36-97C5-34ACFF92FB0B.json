@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9ACF9955-A82C-4C36-97C5-34ACFF92FB0B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D99D769-3608-4426-8EF2-4FFBAE67746C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0EC63DD-1340-4A65-A208-E0DF4CEEB40B",
+    "height": 48,
+    "width": 235,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row/leftAccessory/1Line/Light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D5BAF74A-DC82-46D4-B560-AE3E57AF2AE7_stringValue",
+      "value": "勿擾時段"
+    }
+  ],
+  "overrides": {
+    "D5BAF74A-DC82-46D4-B560-AE3E57AF2AE7": "勿擾時段"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "309F5D22-6A81-4A45-A737-57002378D552",
+      "opacity": 0.4
+    },
+    "do_objectID": "9E9EA479-16EE-48E0-85F2-D2C35AED371A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "78B0A88A-83AE-4427-9C97-ED6F8E4C0249",
+  "verticalSpacing": 0
+}

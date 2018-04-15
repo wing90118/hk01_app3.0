@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "12BD4058-A576-45D1-9E6F-93155E4E0308",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73B27C92-EAF6-4BA4-9B5F-3FB7D7D40C0B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8556D4D8-F595-47CC-946B-7087927CBD66",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E492D6EB-7C04-401F-884D-2624EAB263B8_symbolID",
+      "value": "4F708967-1C33-43BC-8D8D-1695BC13FDB3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4B02B4EE-B15A-4907-9413-4828C6A8434D_stringValue",
+      "value": "我的收藏"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3AC5C2DE-EE31-4685-9606-A912327BA0BD_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9568EF8E-1F60-4BCB-BA35-F349283BD7CF_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "3AC5C2DE-EE31-4685-9606-A912327BA0BD": " ",
+    "4B02B4EE-B15A-4907-9413-4828C6A8434D": "我的收藏",
+    "9568EF8E-1F60-4BCB-BA35-F349283BD7CF": " ",
+    "E492D6EB-7C04-401F-884D-2624EAB263B8": {
+      "symbolID": "4F708967-1C33-43BC-8D8D-1695BC13FDB3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A85B6DB1-7053-43DD-B679-1FD2483F51E9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1F7043C8-7645-4189-9C8F-5C7F278F0F78",
+  "verticalSpacing": 0
+}

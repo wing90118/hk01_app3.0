@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "ED902258-222B-4F1B-B496-81346C61626B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2C7FAAD6-2F21-405F-9D49-54EA6A49CFB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4312BD0F-E405-4FCD-9E6C-D9D0D8C84C0D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4986A7B1-87EE-4CD2-99A5-90E2A14D43B1"
+    },
+    {
+      "class": "group",
+      "id": "6CCB778B-53BA-4501-BFA3-5AB56047C626"
+    }
+  ],
+  "name": "apps",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ED51E4C2-D5BB-4E7F-82E2-34E5C66B590B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 11.25,
+      "type": 0
+    },
+    "do_objectID": "532F9BEF-7201-4F92-A618-11590EE3524E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_06c11bb2-1164-4b20-a96b-ea7c07514c8b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_617bd9ce-1e23-4ae3-9e00-4caa30cdc302",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

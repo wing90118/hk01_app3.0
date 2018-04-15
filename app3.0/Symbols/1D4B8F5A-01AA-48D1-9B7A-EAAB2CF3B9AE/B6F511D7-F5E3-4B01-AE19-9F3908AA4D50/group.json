@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "B6F511D7-F5E3-4B01-AE19-9F3908AA4D50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "568EBF1D-286E-4803-BE62-F9E27BD666D2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B7899CB8-A625-4549-B6E3-81517BC75E69",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "13C08175-C3C1-46A0-9705-4A15A52052C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC9ACCC2-EE9C-42F3-9BC0-271E8054C2C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6D02CD3-D038-443F-9218-9AE5247B402D"
+    }
+  ],
+  "name": "bar/comment",
+  "nameIsFixed": true,
+  "originalObjectID": "4D9CC8FA-5D21-41A9-9DE2-B14228AC7A33",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5A43584-7BFC-4A80-94CD-71648CC35430",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

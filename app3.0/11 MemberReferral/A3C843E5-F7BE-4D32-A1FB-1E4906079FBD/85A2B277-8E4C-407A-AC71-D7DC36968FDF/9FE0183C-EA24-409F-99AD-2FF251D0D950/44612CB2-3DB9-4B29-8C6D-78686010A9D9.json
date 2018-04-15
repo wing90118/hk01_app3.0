@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44612CB2-3DB9-4B29-8C6D-78686010A9D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8C31E6B-D8A7-46F6-93EA-D8D1A71188B2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "267C98CD-F12E-4907-A0C1-E89A0C0FF1E2",
+    "height": 40,
+    "width": 168,
+    "x": 104,
+    "y": 416
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/primaryAction/plainTxt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B850746C-4455-4C91-8313-1AEEE9530AAD_stringValue",
+      "value": "立即推薦"
+    }
+  ],
+  "overrides": {
+    "B850746C-4455-4C91-8313-1AEEE9530AAD": "立即推薦"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30CDEA30-37F5-47F2-92AC-45595700C23F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99DE44AC-8B83-48B3-AC63-E827593C811E",
+  "verticalSpacing": 0
+}

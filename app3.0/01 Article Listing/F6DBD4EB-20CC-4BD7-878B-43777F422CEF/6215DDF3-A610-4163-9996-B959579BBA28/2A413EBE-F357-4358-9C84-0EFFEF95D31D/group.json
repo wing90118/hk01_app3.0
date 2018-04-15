@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "2A413EBE-F357-4358-9C84-0EFFEF95D31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "74FDB674-BC1C-4DF2-B329-44983DD77F9A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF795541-3037-4BAB-BF80-4F2041A0B3CB",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 461
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6E6D9329-848A-4A00-9873-7F515C61C51E"
+    },
+    {
+      "class": "group",
+      "id": "9D404F0A-7AC4-455F-9F78-4D1BF76CB28B"
+    }
+  ],
+  "name": "snackbar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3CFE8284-98E6-42D7-8745-CAD084534B29",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "47EBAF3D-397A-4481-8443-7F4DB8C1587B",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

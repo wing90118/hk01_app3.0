@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5F2C9902-70BD-48DF-8A41-DAF09D999226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C0467AB4-2750-4280-B5FD-B91AEBB2ED9E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CBB14BAA-3D96-4E2C-91FC-3742343D215B",
+    "height": 40,
+    "width": 140,
+    "x": 164,
+    "y": 144
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/primaryAction/plainTxt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B850746C-4455-4C91-8313-1AEEE9530AAD_stringValue",
+      "value": "會員登入／註冊"
+    }
+  ],
+  "overrides": {
+    "B850746C-4455-4C91-8313-1AEEE9530AAD": "會員登入／註冊"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC777387-B119-4710-A57C-1C0A02F8362E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99DE44AC-8B83-48B3-AC63-E827593C811E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

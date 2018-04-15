@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7D3625FE-5EE2-4C8E-AC0F-C66DC52512EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD5D36B1-0860-4ED9-9783-28707306CC7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E69B1806-E28C-4576-BE41-7554AAF48024",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 96
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row/display",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E63C48DE-1BB5-4B20-8F0F-AD513794B31A/3B77BAF4-5708-484D-B5E2-05660DFD2169_stringValue",
+      "value": "帳戶綁定"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B/E2EC7B45-F4DE-4440-AE2F-72248C5E7790_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B/99C80197-4071-4185-8415-8EB2A39EFD62_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "707F0277-F59F-4E01-A5F7-AD42B668FB67_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "707F0277-F59F-4E01-A5F7-AD42B668FB67": {
+      "symbolID": ""
+    },
+    "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A": {
+      "symbolID": ""
+    },
+    "D67626C9-6FEB-4138-BE3A-42392CFB9D6B": {
+      "99C80197-4071-4185-8415-8EB2A39EFD62": " ",
+      "E2EC7B45-F4DE-4440-AE2F-72248C5E7790": {
+        "symbolID": ""
+      }
+    },
+    "E63C48DE-1BB5-4B20-8F0F-AD513794B31A": {
+      "3B77BAF4-5708-484D-B5E2-05660DFD2169": "帳戶綁定"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4421820-AA1A-40F3-AE80-62F4C0461747",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "121B1D7E-D75F-4C35-B994-2275F2FB4090",
+  "verticalSpacing": 0
+}

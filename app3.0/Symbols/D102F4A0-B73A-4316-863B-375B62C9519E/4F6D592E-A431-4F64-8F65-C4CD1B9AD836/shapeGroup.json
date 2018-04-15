@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "4F6D592E-A431-4F64-8F65-C4CD1B9AD836",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "671A4EF0-8985-4526-BE7D-5D4E327CDB4B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E961FDB1-BDCC-4AD5-BFF7-9FAAE7546FFE",
+    "height": 19.09090909090909,
+    "width": 19.09090909090909,
+    "x": 2.454545454545455,
+    "y": 2.454545454545455
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F94BA7D2-D24B-41FD-83C5-7FFA9E427FA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF9E9A05-B154-4D59-A167-46A096FA9233"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6121CB0-643C-468F-B0BA-FC057454429E"
+    }
+  ],
+  "name": "Oval",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1C7FCE5-BC13-4290-96F5-FF20D79AE913",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3058823529411765,
+          "green": 0.2627450980392157,
+          "red": 0.2352941176470588
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

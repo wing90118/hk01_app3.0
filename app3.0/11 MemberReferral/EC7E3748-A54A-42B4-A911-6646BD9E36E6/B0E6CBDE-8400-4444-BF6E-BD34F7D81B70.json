@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B0E6CBDE-8400-4444-BF6E-BD34F7D81B70",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5B6C0375-5782-4220-A6A7-11FA0A03067E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "87F6BF2A-5479-4149-95A8-8DEAEAAD2869",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Views/Activity View/Customized Prompt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FD7D473C-C8E4-448A-977D-EF564B06E209_stringValue",
+      "value": "你已領取過受推薦獎賞，不能重覆領取。推薦朋友亦可獲取額外積分，立即行動！"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "99057E57-276E-4253-830D-F2BE04F64139_stringValue",
+      "value": "稍後再說"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F353207D-65EB-44EA-B0E5-0D55BECFDA7B_stringValue",
+      "value": "推薦朋友"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B83AAF15-884E-4C0E-A7DA-C7033BFFA57C",
+      "overrideName": "B77FB0BF-B291-466B-9D1D-C1C260E06E25_symbolID",
+      "value": "D3DCF2BD-6A21-4F4C-AEE1-2A7F07504F2B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3468459D-1457-4E67-AC21-13F5B137C8FF",
+      "overrideName": "9CE2DBEF-CFCD-4A85-8776-8995D045C189_symbolID",
+      "value": "0D173B02-AD6B-4448-97C2-1897DEA5F78A"
+    }
+  ],
+  "overrides": {
+    "99057E57-276E-4253-830D-F2BE04F64139": "稍後再說",
+    "9CE2DBEF-CFCD-4A85-8776-8995D045C189": {
+      "symbolID": "0D173B02-AD6B-4448-97C2-1897DEA5F78A"
+    },
+    "B77FB0BF-B291-466B-9D1D-C1C260E06E25": {
+      "symbolID": "D3DCF2BD-6A21-4F4C-AEE1-2A7F07504F2B"
+    },
+    "F353207D-65EB-44EA-B0E5-0D55BECFDA7B": "推薦朋友",
+    "FD7D473C-C8E4-448A-977D-EF564B06E209": "你已領取過受推薦獎賞，不能重覆領取。推薦朋友亦可獲取額外積分，立即行動！"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B3B3367-B939-41AE-9C80-2A4DC2BC356D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5A09E015-2310-46BF-AB88-B49C4E93B721",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

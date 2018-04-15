@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "672BB967-017C-4DD5-93C4-F2E2B9D5648F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5BD8896F-9FC7-49C9-B45F-6E6FEF7744C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DB84E50-B73B-4A6F-AD24-E41591183FC4",
+    "height": 40,
+    "width": 168,
+    "x": 191,
+    "y": 230
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/primaryAction/plainTxt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B850746C-4455-4C91-8313-1AEEE9530AAD_stringValue",
+      "value": "使用驗證電郵登入"
+    }
+  ],
+  "overrides": {
+    "B850746C-4455-4C91-8313-1AEEE9530AAD": "使用驗證電郵登入"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2B0481C4-00A3-4ED2-87B7-2174D23272AF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99DE44AC-8B83-48B3-AC63-E827593C811E",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "DE6FCA79-6028-40B7-B47C-307ACC4A5013",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "93F48632-7884-40AB-B0FB-A64E289D86A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B090B04-9ECB-44EB-B194-282882F299B4",
+    "height": 40,
+    "width": 135,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4BCAD3EB-B8E1-435D-88E0-A37C51E23E6C"
+    },
+    {
+      "class": "group",
+      "id": "78883BF6-3705-410A-B96B-5199920244DB"
+    }
+  ],
+  "name": "badge_playstore",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7171CE9C-98C2-49F2-ADE3-E191DE934E6D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.539823008849558,
+      "type": 0
+    },
+    "do_objectID": "BF019051-72EA-420A-AC0C-A7B83895F371",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "F7C50C80-ADE8-435D-8256-191229EDB6EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "277D63DA-21D8-4530-B48B-CA3245B2895B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2428344F-1503-44DD-B119-44D3B83234D2",
+    "height": 24,
+    "width": 58,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C313A0AE-51EA-4446-85AA-6ED8AAA27F70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "883A8E6E-B21C-4616-9258-5A1EAEFA94A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "380720D8-F89D-4A75-A87E-00C110066DAF"
+    },
+    {
+      "class": "text",
+      "id": "2D7BE0E7-95BD-40EE-8733-DEBB3055A7A8"
+    }
+  ],
+  "name": "indi_vid",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89C7F467-2257-4C55-956A-C965E4875AA8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

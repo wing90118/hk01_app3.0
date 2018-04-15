@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "B9C0DAF9-6E0A-4894-9838-FE0F13B9EA51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "59460E65-364A-4135-9691-53DEB9D005B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F5E8B29-3EDF-4E39-B6E6-8C4CB001686D",
+    "height": 92,
+    "width": 605,
+    "x": -109,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D286BC71-B18C-4B5E-BC94-1CCF468AEA8D"
+    },
+    {
+      "class": "group",
+      "id": "C1ADC313-B6DB-41E4-B87A-DC297C16E6A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45723B06-98EF-492D-8E1A-4F279978A93D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F97ED1A4-BADB-4C4B-B0DB-FB4EFD770A85"
+    }
+  ],
+  "name": "header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1451D08-7185-47C4-A169-00AE77634284",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

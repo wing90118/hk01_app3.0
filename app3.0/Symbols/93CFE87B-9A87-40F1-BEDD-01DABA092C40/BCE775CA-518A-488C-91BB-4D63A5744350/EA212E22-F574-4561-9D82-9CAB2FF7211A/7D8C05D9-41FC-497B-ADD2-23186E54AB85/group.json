@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7D8C05D9-41FC-497B-ADD2-23186E54AB85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7245E081-5475-4D36-B574-E653A0867660",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA03F444-F1D2-4D40-9660-DC5B259942D8",
+    "height": 8.713405238828955,
+    "width": 428.9570552147239,
+    "x": 0,
+    "y": 708.4668721109399
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0F5C3418-3DE9-43C7-AE61-E474692667DD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D3ED979-256E-445E-8DC7-855FD2482DAA"
+    }
+  ],
+  "name": "Network Line Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "820437ED-AA6C-45EB-9937-09FCCC7FA87C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.7,
+      "type": 0
+    },
+    "do_objectID": "F78DB028-D0E0-4FFE-B861-0A1E16554638",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

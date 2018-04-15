@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "do_objectID": "20F96D80-E1F6-4CF5-99BA-61246EF2225B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79B46EF1-280A-42CA-8E83-1F6E50115227",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F815254-B4DB-4DE7-AFE7-298F79785BF5",
+    "height": 11,
+    "width": 319,
+    "x": 32,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C149AC53-4B4B-4F55-81C2-C29CDE9295E1"
+    },
+    {
+      "class": "text",
+      "id": "302EA83F-4507-4897-B8C4-D6DF27258913"
+    },
+    {
+      "class": "text",
+      "id": "59A77392-956C-4AF6-9D92-DAFD7DF9B20B"
+    },
+    {
+      "class": "text",
+      "id": "F71C11AF-6D55-4456-8C98-DF0B67045E96"
+    },
+    {
+      "class": "text",
+      "id": "5764D7F0-948E-4BBD-9742-E4F9A2BBE9B8"
+    },
+    {
+      "class": "text",
+      "id": "4D428468-2CA3-4BC7-B88B-715113BB9E35"
+    },
+    {
+      "class": "text",
+      "id": "3471F2C8-668A-4BEC-B51B-57D2139B1628"
+    },
+    {
+      "class": "text",
+      "id": "AF220EAA-65FF-45C2-B1D0-9841D5AAAD11"
+    },
+    {
+      "class": "text",
+      "id": "097C7337-023E-4CAD-9008-FA7B410D7C42"
+    },
+    {
+      "class": "text",
+      "id": "96EAF857-9567-4F91-8FA7-689D1D242340"
+    }
+  ],
+  "name": "numbers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "360C3842-201D-4296-810F-2E9DC4CF0D87",
+      "opacity": 0.8
+    },
+    "do_objectID": "2A15D693-BA36-4605-9DD3-ED8E128FAE4E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

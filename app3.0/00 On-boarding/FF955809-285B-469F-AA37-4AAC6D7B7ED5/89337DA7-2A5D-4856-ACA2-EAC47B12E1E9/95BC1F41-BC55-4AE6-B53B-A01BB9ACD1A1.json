@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "95BC1F41-BC55-4AE6-B53B-A01BB9ACD1A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACE8869C-9281-4498-918A-A8B1D3D436A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A3B723DE-08F8-427E-8802-A872DACA6E40",
+    "height": 40,
+    "width": 168,
+    "x": 191,
+    "y": 148
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/primaryAction/plainTxt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "250A54A4-FF60-407E-B23A-2BEAE35BCB92",
+      "overrideName": "B850746C-4455-4C91-8313-1AEEE9530AAD_stringValue",
+      "value": "會員登入／註冊"
+    }
+  ],
+  "overrides": {
+    "B850746C-4455-4C91-8313-1AEEE9530AAD": "會員登入／註冊"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EB6A39C-0260-4CD5-ABF5-933BD844D3B6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "99DE44AC-8B83-48B3-AC63-E827593C811E",
+  "verticalSpacing": 0
+}

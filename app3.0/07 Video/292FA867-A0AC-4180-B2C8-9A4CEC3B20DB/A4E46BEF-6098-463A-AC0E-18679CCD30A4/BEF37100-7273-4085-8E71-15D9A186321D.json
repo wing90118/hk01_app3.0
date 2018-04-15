@@ -1,0 +1,91 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "BEF37100-7273-4085-8E71-15D9A186321D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FC69ED3D-C99A-4C22-9C41-50B2F700E86A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF5E36C1-612C-447A-93C9-95D472B95CC2",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7659D977-D293-4C3E-AE4E-C688D19EBF38_stringValue",
+      "value": "2018-01-25"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A_stringValue",
+      "value": "閱讀全文"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC_stringValue",
+      "value": "【輕熟女看電影】一個白種女人當上粵劇花旦　代繼父尋根想吃膶腸"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8FA7808-F470-428B-BA53-E309D7AF9A14/0C855B2C-DE01-4F4B-963E-882E428D376B_stringValue",
+      "value": "01:54"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B17F9C02-044A-4DF2-9F80-40F2FD0562D3/D52F8608-5FBB-4E3A-8C84-87FF369BA313_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9796dd923279c7d2cbfa495a6ad11b8ef591eaad",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC": "【輕熟女看電影】一個白種女人當上粵劇花旦　代繼父尋根想吃膶腸",
+    "7659D977-D293-4C3E-AE4E-C688D19EBF38": "2018-01-25",
+    "B17F9C02-044A-4DF2-9F80-40F2FD0562D3": {
+      "D52F8608-5FBB-4E3A-8C84-87FF369BA313": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/9796dd923279c7d2cbfa495a6ad11b8ef591eaad",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A": "閱讀全文",
+    "B8FA7808-F470-428B-BA53-E309D7AF9A14": {
+      "0C855B2C-DE01-4F4B-963E-882E428D376B": "01:54"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC8531AE-33CA-4EFC-AE32-66CD77DC214C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B45657F-51CA-46A3-ACFD-FAA003FCF625",
+  "verticalSpacing": 0
+}

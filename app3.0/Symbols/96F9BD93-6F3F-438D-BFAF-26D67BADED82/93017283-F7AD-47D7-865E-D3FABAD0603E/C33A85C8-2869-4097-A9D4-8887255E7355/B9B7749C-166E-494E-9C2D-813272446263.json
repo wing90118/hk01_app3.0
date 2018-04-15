@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B9B7749C-166E-494E-9C2D-813272446263",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8C38EC3A-5C07-439C-847F-4AE5657DB585",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "718EA14C-64AD-42CB-AE0B-43A4887A392D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ico_reload/theme",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A503F67C-5C9B-4A5A-8CD0-52E95C8B67FD",
+      "overrideName": "437E92F7-B90A-4262-ADB0-BA795794C305_symbolID",
+      "value": "9BC521D1-D4CB-4799-92F6-97C43CBB2F2B"
+    }
+  ],
+  "overrides": {
+    "437E92F7-B90A-4262-ADB0-BA795794C305": {
+      "symbolID": "9BC521D1-D4CB-4799-92F6-97C43CBB2F2B"
+    }
+  },
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80F691C7-AC44-4A51-AB66-11F13A8DBE83",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B082A497-3618-446E-B210-F214D3A33B46",
+  "verticalSpacing": 0
+}

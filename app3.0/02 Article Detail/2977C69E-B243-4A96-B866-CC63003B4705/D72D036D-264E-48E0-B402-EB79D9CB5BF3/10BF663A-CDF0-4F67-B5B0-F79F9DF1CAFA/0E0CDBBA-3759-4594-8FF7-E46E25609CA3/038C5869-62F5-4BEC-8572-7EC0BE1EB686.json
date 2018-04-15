@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "038C5869-62F5-4BEC-8572-7EC0BE1EB686",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9163AEAE-81E6-42C8-BBE5-B17E32DDCF8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4435BB5A-6AD4-474D-9C3B-6292BB9D78C3",
+    "height": 210,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "thumb",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C17E90AD-1A74-4F17-9573-D172FB7CA863_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/04edc29c3d42792294653ffefa315758c9ec6720",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D52F8608-5FBB-4E3A-8C84-87FF369BA313_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6657318688184d3c26359fa029299d2fd9c4a554",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "C17E90AD-1A74-4F17-9573-D172FB7CA863": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/04edc29c3d42792294653ffefa315758c9ec6720",
+      "_ref_class": "MSImageData"
+    },
+    "D52F8608-5FBB-4E3A-8C84-87FF369BA313": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/6657318688184d3c26359fa029299d2fd9c4a554",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DCD45C69-E26B-4D54-88AE-1B9264000995",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "248B93D1-B8F9-488D-B500-157370806F75",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

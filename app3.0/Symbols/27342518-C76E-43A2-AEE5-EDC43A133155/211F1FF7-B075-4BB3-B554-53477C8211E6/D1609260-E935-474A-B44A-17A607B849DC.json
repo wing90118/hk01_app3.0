@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D1609260-E935-474A-B44A-17A607B849DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E712CAEA-A7BF-41CF-90D8-55FF5EBC18BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6EA9DC02-2036-4363-9D1C-B53ADDF1FE77",
+    "height": 49,
+    "width": 93,
+    "x": 0,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "status",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "502CF2D5-00D3-42EB-B232-5AC225621832/37321F67-2669-4C76-A37C-D85CEBCCE450_stringValue",
+      "value": "主頁"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AB1DFF4D-98DB-408F-8ADB-207F16BEC5F9_symbolID",
+      "value": "D929E263-48CE-47A2-BCFC-05A7CC4EA98A"
+    }
+  ],
+  "overrides": {
+    "502CF2D5-00D3-42EB-B232-5AC225621832": {
+      "37321F67-2669-4C76-A37C-D85CEBCCE450": "主頁"
+    },
+    "AB1DFF4D-98DB-408F-8ADB-207F16BEC5F9": {
+      "symbolID": "D929E263-48CE-47A2-BCFC-05A7CC4EA98A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "515E7E2D-524F-4AD4-9946-FA7C008CC560",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "30357E15-F089-408C-83CA-E9ED87884509",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,148 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "34A99EC4-ABBD-4B1F-95E8-F7BA692E59B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F271B360-A78F-4401-B2DF-83FE4B3B02F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB48F2B2-5B62-4E39-8087-57D4B6573F2D",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 442
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4B04011A-F448-4599-A05B-D422901C3AE5/9B107EA4-103C-4F24-80B0-8DD05C2291AB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7c0029e886ee3428e09126009c6bcf7e3f23841b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F9153ACA-0B8C-4574-8D9D-6BC567B75957",
+      "overrideName": "B72BF751-2B0C-46B5-8FE1-EE60F53E7C1E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "089FB1CD-22DD-43F5-9B13-A3773DFFFAF1",
+      "overrideName": "6E3296C6-2D7F-4692-8B18-FAE2F49CE4A5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C0E90E0-B4E5-4DC9-8610-AB0AAFDE663D",
+      "overrideName": "FE0624DD-4665-4005-B61D-63060AE0ED69_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D7C0BED-753B-4E05-A373-C08B9D8372AC",
+      "overrideName": "799503CA-5362-4D6F-9656-A2F04B2665F8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5837745A-00EF-45C2-B7CC-19C1A8836264",
+      "overrideName": "CC8889C3-B163-4544-B61F-A8B763521131_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B2D479B-AD2C-4793-BED3-9BC4B3CD9739",
+      "overrideName": "7659D977-D293-4C3E-AE4E-C688D19EBF38_stringValue",
+      "value": "2018-02-26"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3E1A0D1-1EFA-4762-8D6B-77742D1FDBB0",
+      "overrideName": "ABBB3604-E6BB-4EB2-BFF7-6BFB335D7ACA_stringValue",
+      "value": "港聞"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B05121B7-08AA-4EDF-A314-DF7D704555A1",
+      "overrideName": "0DD32DCC-EFDF-44A5-AB51-826B74D419F0_stringValue",
+      "value": "港大未公布張翔何時正式履新　譚廣亨：與張有密切溝通"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7EB326B-A2E7-4DCB-B25E-19F2BF8B5478",
+      "overrideName": "2F51B110-9FD1-440B-8AD5-14CC5F38DD69/D52F8608-5FBB-4E3A-8C84-87FF369BA313_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/17ace9f1612890794da5e2daf8f06e94dd3f99a6",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "0DD32DCC-EFDF-44A5-AB51-826B74D419F0": "港大未公布張翔何時正式履新　譚廣亨：與張有密切溝通",
+    "2F51B110-9FD1-440B-8AD5-14CC5F38DD69": {
+      "D52F8608-5FBB-4E3A-8C84-87FF369BA313": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/17ace9f1612890794da5e2daf8f06e94dd3f99a6",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "4B04011A-F448-4599-A05B-D422901C3AE5": {
+      "9B107EA4-103C-4F24-80B0-8DD05C2291AB": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7c0029e886ee3428e09126009c6bcf7e3f23841b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "6E3296C6-2D7F-4692-8B18-FAE2F49CE4A5": {
+      "symbolID": ""
+    },
+    "7659D977-D293-4C3E-AE4E-C688D19EBF38": "2018-02-26",
+    "799503CA-5362-4D6F-9656-A2F04B2665F8": {
+      "symbolID": ""
+    },
+    "ABBB3604-E6BB-4EB2-BFF7-6BFB335D7ACA": "港聞",
+    "B72BF751-2B0C-46B5-8FE1-EE60F53E7C1E": {
+      "symbolID": ""
+    },
+    "CC8889C3-B163-4544-B61F-A8B763521131": {
+      "symbolID": ""
+    },
+    "FE0624DD-4665-4005-B61D-63060AE0ED69": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "960FB51D-0229-471A-8847-6D76099DFD8F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "030876C9-6D15-42EB-81D3-A1846D667C6D",
+  "verticalSpacing": 0
+}

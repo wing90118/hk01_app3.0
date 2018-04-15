@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "256B645F-527D-4411-8067-4BDCADEE0107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3379F12F-4A32-4792-8B3B-85A6B6CC0486",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "97807211-B18C-4CA7-A954-225F8A943FBA",
+    "height": 32,
+    "width": 80,
+    "x": 0,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tag/search",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DC6025E1-3EC3-40D3-B2E5-82A695C98FC4_stringValue",
+      "value": "推薦"
+    }
+  ],
+  "overrides": {
+    "DC6025E1-3EC3-40D3-B2E5-82A695C98FC4": "推薦"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D9264F0-5429-4F1A-A9D1-3D7C4B1C8764",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "412DB217-EE73-4015-834D-7C6CE937A9D1",
+  "verticalSpacing": 0
+}

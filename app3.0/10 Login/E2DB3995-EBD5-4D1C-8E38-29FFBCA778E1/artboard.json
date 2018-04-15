@@ -1,0 +1,153 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.98189777135849,
+    "do_objectID": "A7A1580A-6E6A-4A17-ABB1-CEB8AB0472C9",
+    "green": 0.9645994305610657,
+    "red": 0.9600604176521301
+  },
+  "do_objectID": "E2DB3995-EBD5-4D1C-8E38-29FFBCA778E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1B516DA4-D0E0-4F7F-8981-B8784444F919",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3346962-10F2-438D-8A8C-9E1DEC3F1A1E",
+    "height": 667,
+    "width": 375,
+    "x": 4949,
+    "y": -184
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CF948023-EEBA-4A42-91BC-631C28BFBA5F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1EDA831B-1478-42DC-BE58-EA2F043D19E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "951A2E84-4F0F-482F-BD9A-F4F6C3BD8F0E"
+    },
+    {
+      "class": "text",
+      "id": "A2CBFE12-2624-4D0D-81CD-5365E480EA1A"
+    },
+    {
+      "class": "group",
+      "id": "39878DAC-068C-4E55-B99D-91C18AB799AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2CCFE08A-656B-4758-A4B0-6A9685B48B88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9E7A708-8144-44C5-887B-B60DDEE721EC"
+    },
+    {
+      "class": "group",
+      "id": "0DD28A30-C16A-4377-BB75-1F2C0EE58BDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6047D516-4341-48E5-ADBB-1034EBAD8B78"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 16,
+    "do_objectID": "0BB587DD-E8B3-445C-87E2-75BE03FA1565",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 343,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Email Password Login Error",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D49569E-6397-4565-8945-780E8E9C8630",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C29C36F7-0979-4887-8811-F1EE1CB994E3",
+    "guides": [
+    ]
+  }
+}

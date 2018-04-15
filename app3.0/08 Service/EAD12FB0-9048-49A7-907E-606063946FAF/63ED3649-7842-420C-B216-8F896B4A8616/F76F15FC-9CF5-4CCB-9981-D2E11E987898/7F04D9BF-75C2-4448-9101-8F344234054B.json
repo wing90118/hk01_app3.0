@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7F04D9BF-75C2-4448-9101-8F344234054B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "517696E9-2139-4A17-AA23-77A399852239",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6DDAC413-2A1E-471E-A86C-4CA982D47092",
+    "height": 109,
+    "width": 109,
+    "x": 117,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tile/service2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9D040414-10F6-48C3-90BB-EC91DEE5F0BE_symbolID",
+      "value": "429DFA35-C057-46DD-A303-EC23625B933B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C4B3CD6-DDD5-416F-B325-AA89A76B679D_stringValue",
+      "value": "交通資訊"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2518C891-3E61-403F-936A-8C64F1A993CB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "44AB2B49-2F5A-460F-8191-B8CA8DF7C274_symbolID",
+      "value": "429DFA35-C057-46DD-A303-EC23625B933B"
+    }
+  ],
+  "overrides": {
+    "2518C891-3E61-403F-936A-8C64F1A993CB": {
+      "symbolID": ""
+    },
+    "44AB2B49-2F5A-460F-8191-B8CA8DF7C274": {
+      "symbolID": "429DFA35-C057-46DD-A303-EC23625B933B"
+    },
+    "5C4B3CD6-DDD5-416F-B325-AA89A76B679D": "交通資訊",
+    "9D040414-10F6-48C3-90BB-EC91DEE5F0BE": {
+      "symbolID": "429DFA35-C057-46DD-A303-EC23625B933B"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A35EA30A-DF27-4544-B88A-04D2AEFDBAD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ABAE6D9F-09E0-44F5-A5A6-3F304D64BFFA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3606AD82-3B65-4798-8086-290B35E8FD84",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E1883D0A-9BD1-4387-BBED-F4821A4DDB81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F52BE83B-8BD9-4274-BD41-6CDA796A0F6F",
+    "height": 21,
+    "width": 21,
+    "x": 3,
+    "y": 1.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C84C26BF-DB3A-4C36-8FA2-62354D576255"
+    },
+    {
+      "class": "shapePath",
+      "id": "2A53BE0D-8046-46CE-A31F-D51DF5BC4B50"
+    },
+    {
+      "class": "shapePath",
+      "id": "A77FD48D-972B-46E2-8B4B-913DF13445F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE5CF83C-3E81-4D7B-AE03-FDF1272768C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B548EA0-E37F-41C2-99AA-9C3A4D003A7A"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "344567F4-E605-44D0-AC6E-27E1CE060765",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.48,
+          "blue": 0.3058823529411765,
+          "green": 0.2627450980392157,
+          "red": 0.2352941176470588
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "AA405B9A-7B39-41CF-8A38-DC213C603207",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "401DB0A2-D410-446D-8F4B-3D061DF78655",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DBC12688-9B16-4BFB-A6F7-207DBF90D273",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F195AEA1-0E4D-42B0-8F97-9354BC851CF2",
+    "height": 66,
+    "width": 375,
+    "x": 0,
+    "y": 286
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "inputFieldModule/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "51F46A86-FC55-40E4-86EB-FA648DE31E4C/41562F0C-9BD5-4976-9CB0-4F95CAC594FB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51F46A86-FC55-40E4-86EB-FA648DE31E4C/89790103-2899-440F-AE4D-F5CCD7C5C0FD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51F46A86-FC55-40E4-86EB-FA648DE31E4C/09E2F9D8-453A-4880-B955-C589B50203AC_stringValue",
+      "value": "聯絡方法"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51F46A86-FC55-40E4-86EB-FA648DE31E4C/F7FDDE69-F2E3-4113-871C-F21720DAD79B_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A95DDDE4-9E8F-4CA3-B69B-A8C24551DCA6_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "51F46A86-FC55-40E4-86EB-FA648DE31E4C": {
+      "09E2F9D8-453A-4880-B955-C589B50203AC": "聯絡方法",
+      "41562F0C-9BD5-4976-9CB0-4F95CAC594FB": {
+        "symbolID": ""
+      },
+      "89790103-2899-440F-AE4D-F5CCD7C5C0FD": {
+        "symbolID": ""
+      },
+      "F7FDDE69-F2E3-4113-871C-F21720DAD79B": " "
+    },
+    "A95DDDE4-9E8F-4CA3-B69B-A8C24551DCA6": " "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0363E913-0719-4532-84EE-03B41F47EF66",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5C9F8460-8D35-4877-B83B-2C5854328CA5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AB0471B2-FDD1-4F4D-9C9D-951A1CB56D64",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 793,
+  "do_objectID": "FC903513-1D4B-45D7-85AA-89B63CBF360B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CDCEC62A-EC18-4CF6-B4E4-3C409B004787",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AF455F41-6C7E-4F44-8015-E7572A11911D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 34790
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D82542C1-7B8F-43C0-9A97-1B77A410AD4F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "216B7511-EB8C-4788-B885-C2CFFB43EC99"
+    },
+    {
+      "class": "group",
+      "id": "CDED9D54-7495-4107-9B79-1E49AE1E82D8"
+    }
+  ],
+  "name": "ico_ugc_fill",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "76059C9A-95BF-4D65-8056-BBE693E89875",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A0F3F282-B9EC-4590-BDCE-4DE3EAA3DEC6",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "77A97F93-CF3F-4CD0-9E76-B4BB9889A01D",
+    "guides": [
+    ]
+  }
+}

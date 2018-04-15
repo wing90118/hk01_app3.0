@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75FBEC43-63AE-4EBB-91BB-6D902B818008",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25E20E3B-1B0D-4D2F-BEA5-2C8F6D6FD35C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "517ECE61-A6FE-4253-BB6E-71BAD6444EE5",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/navBar/standard/light",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24BC969D-C68F-4718-A6C4-F6B4633EBB67_stringValue",
+      "value": "國際"
+    }
+  ],
+  "overrides": {
+    "24BC969D-C68F-4718-A6C4-F6B4633EBB67": "國際"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA2254ED-BFA3-4E6C-8702-F4244267FDB8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "05B8E889-2C87-4EFD-BC30-139F625FAC28",
+  "verticalSpacing": 0
+}

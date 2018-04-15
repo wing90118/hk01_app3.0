@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "79AA3F85-7518-416B-AB81-57C853C59254",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0C5B1F7-AEDC-4A53-BA0D-36A5DA20880B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "74D74F91-92A7-4BBE-BDE5-C4D0D1755B19",
+    "height": 49,
+    "width": 93,
+    "x": 282,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "status",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F6C49570-443F-4139-A43B-C5549CDB3343_stringValue",
+      "value": "服務"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2826F5BE-E3CE-4C7D-BE7B-A2315F64ADF5_symbolID",
+      "value": "2B325107-6E42-4491-ACAB-ED329B37A14D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F37E69F9-7C80-4119-8CA1-329FBDEE9075/0F358852-93C3-4D42-8EFF-9C65F79B8870_stringValue",
+      "value": "服務"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "490AD37D-E0F3-43DE-AC1B-8FDEBBDD13AB_symbolID",
+      "value": "2B325107-6E42-4491-ACAB-ED329B37A14D"
+    }
+  ],
+  "overrides": {
+    "2826F5BE-E3CE-4C7D-BE7B-A2315F64ADF5": {
+      "symbolID": "2B325107-6E42-4491-ACAB-ED329B37A14D"
+    },
+    "490AD37D-E0F3-43DE-AC1B-8FDEBBDD13AB": {
+      "symbolID": "2B325107-6E42-4491-ACAB-ED329B37A14D"
+    },
+    "F37E69F9-7C80-4119-8CA1-329FBDEE9075": {
+      "0F358852-93C3-4D42-8EFF-9C65F79B8870": "服務"
+    },
+    "F6C49570-443F-4139-A43B-C5549CDB3343": "服務"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D9F4C50-46A9-46E4-BB90-C5C8FFF264ED",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8187979E-481E-4EFF-804A-63569150806E",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "02EB9809-F9E6-4C5C-9632-5AC8D2EAF5E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B19A098E-BE3C-463C-8858-DE65DAC3FC34",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4FCE7FD-7837-4A68-B4F4-841A28DB65E3",
+    "height": 84,
+    "width": 347,
+    "x": 0,
+    "y": 28
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8CA25FF4-3119-4779-9C6D-A7A17BE20F76"
+    },
+    {
+      "class": "group",
+      "id": "56E32D2F-C132-4342-90B1-9B931307D7E0"
+    },
+    {
+      "class": "group",
+      "id": "AD81F49D-BB50-4A37-90DD-E0C43A4F2637"
+    },
+    {
+      "class": "group",
+      "id": "7294DD94-1CD7-4D96-ACB0-02905E383E6A"
+    },
+    {
+      "class": "group",
+      "id": "982DC137-B5C6-457E-BFF5-43EC0DB05CD2"
+    },
+    {
+      "class": "group",
+      "id": "C6AAB873-F103-4DED-9E29-5F64BD060542"
+    }
+  ],
+  "name": "shadowGroup",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "24F1FDB2-8618-49DA-AECF-404182A97932",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "47EBAF3D-397A-4481-8443-7F4DB8C1587B",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

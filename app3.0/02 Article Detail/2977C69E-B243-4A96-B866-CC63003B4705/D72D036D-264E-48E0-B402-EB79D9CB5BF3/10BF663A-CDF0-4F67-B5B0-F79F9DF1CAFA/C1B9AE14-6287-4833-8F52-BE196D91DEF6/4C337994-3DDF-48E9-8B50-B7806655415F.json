@@ -1,0 +1,111 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4C337994-3DDF-48E9-8B50-B7806655415F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94F70B78-E727-4810-AD35-2D92BD74D348",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C997C63C-E444-4452-ABF1-1685B07EEFAF",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 148
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DDC5C50-D1E3-4A01-A7DB-5DBDD95D4201_stringValue",
+      "value": "【即時圖輯】開審第二日　中大現「香港英雄梁天琦」字句"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A/07B8D639-388E-4746-BC1A-76B13D490FFE_stringValue",
+      "value": "06:21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B9DE31C7-29F1-449D-8DFA-2FDD2B6664FB_stringValue",
+      "value": "2018-02-22"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7B8182A4-7C11-4B0E-B4F5-086B461A4643_stringValue",
+      "value": "港聞"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A/E0023E8B-FB17-4DA3-BF8E-190235C8C343_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "031197C9-351B-42D9-86DC-ACFE7C6EF58A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7915BFBB-EB74-4FEF-AF17-234F69072254_symbolID",
+      "value": "8EF5215E-3DAF-49DF-9E63-43E75C9C145C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7915BFBB-EB74-4FEF-AF17-234F69072254/7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b866e8d580de1e4a1c96e9f75f5c119a3ce93ccd",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "031197C9-351B-42D9-86DC-ACFE7C6EF58A": {
+      "07B8D639-388E-4746-BC1A-76B13D490FFE": "06:21",
+      "E0023E8B-FB17-4DA3-BF8E-190235C8C343": {
+        "symbolID": ""
+      },
+      "symbolID": ""
+    },
+    "1DDC5C50-D1E3-4A01-A7DB-5DBDD95D4201": "【即時圖輯】開審第二日　中大現「香港英雄梁天琦」字句",
+    "7915BFBB-EB74-4FEF-AF17-234F69072254": {
+      "7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/b866e8d580de1e4a1c96e9f75f5c119a3ce93ccd",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "8EF5215E-3DAF-49DF-9E63-43E75C9C145C"
+    },
+    "7B8182A4-7C11-4B0E-B4F5-086B461A4643": "港聞",
+    "B9DE31C7-29F1-449D-8DFA-2FDD2B6664FB": "2018-02-22"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7B61199-EA17-4025-9F42-9D88062ED6E2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "verticalSpacing": 0
+}

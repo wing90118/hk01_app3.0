@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E0452C46-1D29-4EAA-8794-90044EAC21AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6A3FBBF-7220-458B-83AE-1BCFBFF5201F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61A83CDE-B702-4C10-B3F0-216F6E0E97D2",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row/display",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E63C48DE-1BB5-4B20-8F0F-AD513794B31A/3B77BAF4-5708-484D-B5E2-05660DFD2169_stringValue",
+      "value": "允許推播通知"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B_symbolID",
+      "value": "732B5C3D-660B-4207-A132-522A09403521"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B/A61F7B9A-4D03-4296-9C0A-5CCE05030F6D_symbolID",
+      "value": "7CC8CFFF-37F3-49A4-9414-7FEEA4F50E69"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "707F0277-F59F-4E01-A5F7-AD42B668FB67_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "707F0277-F59F-4E01-A5F7-AD42B668FB67": {
+      "symbolID": ""
+    },
+    "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A": {
+      "symbolID": ""
+    },
+    "D67626C9-6FEB-4138-BE3A-42392CFB9D6B": {
+      "A61F7B9A-4D03-4296-9C0A-5CCE05030F6D": {
+        "symbolID": "7CC8CFFF-37F3-49A4-9414-7FEEA4F50E69"
+      },
+      "symbolID": "732B5C3D-660B-4207-A132-522A09403521"
+    },
+    "E63C48DE-1BB5-4B20-8F0F-AD513794B31A": {
+      "3B77BAF4-5708-484D-B5E2-05660DFD2169": "允許推播通知"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DB05002-E27D-4B48-830C-4FBD67F968CB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "121B1D7E-D75F-4C35-B994-2275F2FB4090",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,148 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DB56C383-99B8-44A3-85A8-5FA5D068DF19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5F32046E-5132-4D95-84CE-0A61DC773D49",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "82DE8F10-9871-40E1-B1F4-93E7C64883F5",
+    "height": 206,
+    "width": 375,
+    "x": 0,
+    "y": 324
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/3_thumbnail/feature",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E83E75F6-F2A9-445E-AB85-61ADFB597E7F",
+      "overrideName": "6C339E56-FA36-4048-AD69-2B9704D904A5_stringValue",
+      "value": "【圖輯】千億盈餘下陳茂波宣讀財政預算案　團體要求「回水一萬」"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1C556855-C243-421B-8B0E-340A91FBC6D4",
+      "overrideName": "97497BD3-F5F9-4D53-9940-F85E866B11AE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F022102-D619-44D1-89CA-8014BF5D3B0C",
+      "overrideName": "DED1E02F-ABC4-4E28-816B-51BB4E2B2B41/980DDBE6-B1DB-43C3-BEE6-C1915376EC91_stringValue",
+      "value": "12圖"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A72BC5E-6AB4-4CA8-B68F-59CDB901CE2F",
+      "overrideName": "2F96E749-373D-41B7-88C0-425DA5677D05/7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a5ca4eac511be37f883e909533643c64ac333fb",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CEACB924-F8E2-4395-861F-134E432B3C2F",
+      "overrideName": "A403A3BF-946A-4D0D-9585-4B3E69FE320E/7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7f37b584d82730356961e83182521dcd522a52f9",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "07B455CE-31A2-42B8-B1BB-E3745B4943DF",
+      "overrideName": "EBC96223-7281-4036-8D33-239C7ABD3468/7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ea461ed69b81c31c4a29dfd481971b90423b90a7",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "98293AF8-A45D-4B5F-97FA-8BFDE73B9610",
+      "overrideName": "6E1790AB-F78E-4C21-8896-B4D1731B80A4_stringValue",
+      "value": "影像"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C83DA02A-CBBF-462B-8996-DB804863AAD4",
+      "overrideName": "738E0CCD-E283-46E0-87E0-661502361B40_stringValue",
+      "value": "2小時前"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A67F315E-E224-493B-A208-6D44D2999355",
+      "overrideName": "C319FB38-6914-480B-85AD-0A811A0FD32E_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "2F96E749-373D-41B7-88C0-425DA5677D05": {
+      "7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6a5ca4eac511be37f883e909533643c64ac333fb",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "6C339E56-FA36-4048-AD69-2B9704D904A5": "【圖輯】千億盈餘下陳茂波宣讀財政預算案　團體要求「回水一萬」",
+    "6E1790AB-F78E-4C21-8896-B4D1731B80A4": "影像",
+    "738E0CCD-E283-46E0-87E0-661502361B40": "2小時前",
+    "97497BD3-F5F9-4D53-9940-F85E866B11AE": {
+      "symbolID": ""
+    },
+    "A403A3BF-946A-4D0D-9585-4B3E69FE320E": {
+      "7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7f37b584d82730356961e83182521dcd522a52f9",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "C319FB38-6914-480B-85AD-0A811A0FD32E": {
+      "symbolID": ""
+    },
+    "DED1E02F-ABC4-4E28-816B-51BB4E2B2B41": {
+      "980DDBE6-B1DB-43C3-BEE6-C1915376EC91": "12圖"
+    },
+    "EBC96223-7281-4036-8D33-239C7ABD3468": {
+      "7F9B02BC-E9E7-4506-A3E6-E0A56EAAE9DF": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ea461ed69b81c31c4a29dfd481971b90423b90a7",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3677D3E4-86DB-4BE6-BAF8-303001DD5793",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C9329ABC-41F9-4B03-B582-61028F90CAFB",
+  "verticalSpacing": 0
+}

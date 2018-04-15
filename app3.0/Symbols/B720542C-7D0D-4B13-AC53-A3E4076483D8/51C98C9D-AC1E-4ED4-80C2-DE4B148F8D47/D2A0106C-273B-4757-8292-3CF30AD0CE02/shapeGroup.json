@@ -1,0 +1,83 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "D2A0106C-273B-4757-8292-3CF30AD0CE02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8005F488-94A6-4F0D-98FB-008EB4BA0D8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAC02CAF-09A3-4A94-ADB3-F1ECCC48FB44",
+    "height": 16,
+    "width": 16,
+    "x": 172,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "E79CC7F4-C635-405A-814F-D9F85C2F1D8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5E33A01-7EC8-4F87-B2BE-E1AD059A66C0"
+    },
+    {
+      "class": "shapePath",
+      "id": "FFE74CA8-B3CC-4BDB-BE49-8FEF2AA32EE2"
+    }
+  ],
+  "name": "btn_home",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "53F4DABC-F29B-42AA-9938-4AB4D7C0444E",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9921568627450981,
+          "green": 0.9803921568627451,
+          "red": 0.9803921568627451
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

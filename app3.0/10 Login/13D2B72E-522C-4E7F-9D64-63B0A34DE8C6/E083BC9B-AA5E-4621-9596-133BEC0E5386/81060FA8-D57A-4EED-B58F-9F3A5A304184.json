@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "81060FA8-D57A-4EED-B58F-9F3A5A304184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDA9AC9C-F905-4F3B-881B-F1AEDAEDAB36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1AC4273-B505-486D-911A-8238EE8634EF",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E492D6EB-7C04-401F-884D-2624EAB263B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D9AFA7D-B955-4D65-A526-432AACEE5E05_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE_stringValue",
+      "value": "繼續"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "24BC969D-C68F-4718-A6C4-F6B4633EBB67_stringValue",
+      "value": "手機號碼登入"
+    }
+  ],
+  "overrides": {
+    "24BC969D-C68F-4718-A6C4-F6B4633EBB67": "手機號碼登入",
+    "3D9AFA7D-B955-4D65-A526-432AACEE5E05": " ",
+    "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE": "繼續",
+    "E492D6EB-7C04-401F-884D-2624EAB263B8": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDE5357B-1758-4764-99A2-8DCA9E24EBE3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "05B8E889-2C87-4EFD-BC30-139F625FAC28",
+  "verticalSpacing": 0
+}

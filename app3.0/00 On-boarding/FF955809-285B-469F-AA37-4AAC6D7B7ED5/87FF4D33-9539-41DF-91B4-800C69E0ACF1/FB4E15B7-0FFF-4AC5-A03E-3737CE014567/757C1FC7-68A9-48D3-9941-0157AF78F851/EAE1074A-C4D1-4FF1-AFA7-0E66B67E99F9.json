@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EAE1074A-C4D1-4FF1-AFA7-0E66B67E99F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3725AB66-EB68-4F97-85ED-E9124099D1F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1AA1DAE-582E-43A5-9724-3B2D243ED4F6",
+    "height": 518,
+    "width": 260,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone X",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "153C3536-D3F9-49AE-8638-FAB5A657E988",
+      "overrideName": "E9F7516D-1E66-4624-B48B-0AED3D4A1D9A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/576c3cf1a18f81fc44736e331c8f898cc0463ccd",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "E9F7516D-1E66-4624-B48B-0AED3D4A1D9A": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/576c3cf1a18f81fc44736e331c8f898cc0463ccd",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5949656750572082,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EE990C50-EFAC-4969-8C08-99882D2EC0BA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.949656750572083,
+      "type": 0
+    },
+    "do_objectID": "1C447D64-0D2C-4CDD-960E-AB34E6D4F4EF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "85F85424-D4D2-49D5-9BE7-671482292346",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,115 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D12F28E1-983B-47D8-A10A-C84398067814",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DAF540CC-9024-4DD7-828A-93AC24602726",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CFA6C005-2710-4860-A300-CCF0F28CFB95",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 502
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDF376B5-D117-4424-9CE3-DA7A3CFAA171_stringValue",
+      "value": "美媒：特朗普國情咨文談貿易　暗示要對中國出手"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE8E8F05-A28C-4610-8AED-094121543ACC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D/833000CD-8164-4220-B105-762AD891E84F_stringValue",
+      "value": "05:23"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7A647AC-E6B9-4923-A65B-85C07D718C52_stringValue",
+      "value": "2018-01-30"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68E9AEF3-6058-40A7-AB0C-22526B77881F_stringValue",
+      "value": "國際"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "31CD7DF9-5655-4598-BA27-654D8A92E577",
+      "overrideName": "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF/3FF16639-D265-4B0D-A6C2-6EAE3E0324E8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/78ddb71271fdce786143854e28bb8c3e92babd96",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D7FCC1BE-7BAD-4BB6-B379-BA27C5106937",
+      "overrideName": "49D53731-8CA2-47FC-87CB-5028C648BCAB_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF": {
+      "3FF16639-D265-4B0D-A6C2-6EAE3E0324E8": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/78ddb71271fdce786143854e28bb8c3e92babd96",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "49D53731-8CA2-47FC-87CB-5028C648BCAB": {
+      "symbolID": ""
+    },
+    "68E9AEF3-6058-40A7-AB0C-22526B77881F": "國際",
+    "A7A647AC-E6B9-4923-A65B-85C07D718C52": "2018-01-30",
+    "CDF376B5-D117-4424-9CE3-DA7A3CFAA171": "美媒：特朗普國情咨文談貿易　暗示要對中國出手",
+    "CE8E8F05-A28C-4610-8AED-094121543ACC": {
+      "symbolID": ""
+    },
+    "D4B21417-753A-4631-95F9-9D7CC9066D2D": {
+      "833000CD-8164-4220-B105-762AD891E84F": "05:23",
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AF51FACD-FB15-4B39-B39E-D88643AE4324",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "verticalSpacing": 0
+}

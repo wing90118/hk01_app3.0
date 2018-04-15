@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8EF52C4C-5810-42CE-8C2B-97D1F2EDD157",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D626AB3-C90F-4870-9BCF-BE8B6088F30A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC2390F3-08E3-45F8-A28B-7AE427A4ADAA",
+    "height": 32,
+    "width": 80,
+    "x": 0,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tag/search",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7A08DE01-6129-47DD-8251-BAA81DBBC754_stringValue",
+      "value": "寵物"
+    }
+  ],
+  "overrides": {
+    "7A08DE01-6129-47DD-8251-BAA81DBBC754": "寵物"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6AFAE97-FFA4-4845-959C-97D3288A9916",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AC4D6340-FD47-457F-A3AD-2A6E7232D026",
+  "verticalSpacing": 0
+}

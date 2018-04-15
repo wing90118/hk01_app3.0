@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "58275DEC-76D7-40F3-90F2-3535923FF2D7",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 772,
+  "do_objectID": "D102F4A0-B73A-4316-863B-375B62C9519E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87B43AE9-FF7E-4689-96CC-69665E20E200",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E896A639-87E8-4695-8B82-565E4727F9C2",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 29636
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4B41D600-1677-43CC-AF82-326BF4B78E67",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4F6D592E-A431-4F64-8F65-C4CD1B9AD836"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "125E44D1-5A5D-483E-8BEB-B28A11FF63C3"
+    }
+  ],
+  "name": "ico_search/ico_search_default",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9409BB4-0CC1-4F5F-8652-B4C1FF1A4D15",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "276E458E-4FCD-4A4C-86B1-3195D5912CDC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DC668619-E51C-4E89-B004-304D5C122626",
+    "guides": [
+    ]
+  }
+}

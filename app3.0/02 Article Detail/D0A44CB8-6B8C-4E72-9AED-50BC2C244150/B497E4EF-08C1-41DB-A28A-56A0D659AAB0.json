@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B497E4EF-08C1-41DB-A28A-56A0D659AAB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C87ABFB4-1CA3-42C1-AE04-D8EED6B082F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1F07FF2-2FF9-4B66-A32D-B7770B023552",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 619
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/comment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/8235F215-9730-41B3-844B-8FF4BCFFD93B_stringValue",
+      "value": "搶先首個評論⋯"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3083FD2-30BA-4EA6-A715-959888B14F80_symbolID",
+      "value": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E61C60E-580E-4E7E-B923-D508AA9478FF_symbolID",
+      "value": "2EDAB275-C11D-493D-88E9-CFA2976AE7D8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/47C50044-EC9E-4496-BAA8-CC8C268B347B_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "1C254249-088D-411E-8924-B29CA7440258": {
+      "47C50044-EC9E-4496-BAA8-CC8C268B347B": " ",
+      "8235F215-9730-41B3-844B-8FF4BCFFD93B": "搶先首個評論⋯"
+    },
+    "9E61C60E-580E-4E7E-B923-D508AA9478FF": {
+      "symbolID": "2EDAB275-C11D-493D-88E9-CFA2976AE7D8"
+    },
+    "F3083FD2-30BA-4EA6-A715-959888B14F80": {
+      "symbolID": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C2FB455-CB9A-4FCE-8E01-C2A69642ABC8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "C4754E5A-FF44-49EA-A7B7-2586299351E9",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "15DA3751-BD91-4452-8C72-29E88BC5492D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 32,
+    "width": 32,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "430DE6DC-B87B-4362-90FF-3975C594F051"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D92C40E-1F8E-4E1A-A7E8-BE83DDDEF3C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3C98DCC4-CB2D-459C-A4F5-B3C77C3635AB"
+    }
+  ],
+  "name": "ico_my_bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.142857142857143,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

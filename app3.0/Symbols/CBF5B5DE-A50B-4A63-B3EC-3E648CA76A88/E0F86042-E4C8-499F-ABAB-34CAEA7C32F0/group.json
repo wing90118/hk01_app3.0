@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "E0F86042-E4C8-499F-ABAB-34CAEA7C32F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F34A03CA-01A0-40CF-8A53-E7E5D1E882E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F9EEF2F4-96F3-498A-B71F-50C368D5E5DC",
+    "height": 120,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A6B41A83-19C7-4279-AE34-B455EC70BDA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE3B851A-3B28-4162-8E82-7AF28732A920"
+    },
+    {
+      "class": "text",
+      "id": "1095C057-0AB6-42C8-A91B-C14532BC5BB1"
+    }
+  ],
+  "name": "articleDetail/block/intro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15C75C53-2925-45A1-92BA-3CD4DB271B00",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

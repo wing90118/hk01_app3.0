@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "65D383D7-2366-420B-9746-1DD3ADAED38B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9CF902A-67C5-4B2F-9060-5A258B306437",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "936FF3D7-185D-4CF0-B0A1-283DF1675C8F",
+    "height": 206,
+    "width": 268,
+    "x": 34,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "visual_launchScreen",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.622047244094488,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6F0BE315-E7A3-4066-B871-1A71B5F7B47E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 16.22047244094488,
+      "type": 0
+    },
+    "do_objectID": "4A44B506-EB2F-4783-A515-A26D168F0017",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A193F68A-F6A8-4672-A78A-370A120F08FD",
+  "verticalSpacing": 0
+}

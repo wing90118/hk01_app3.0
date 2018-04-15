@@ -1,0 +1,89 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E2F9B624-E1ED-401A-87EF-4CC455B9BA3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21310436-8732-4EF1-B5B0-99EABBE83AE1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60A8DBCA-DBE9-4BB4-958C-9567CF9B1B6E",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 324
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7659D977-D293-4C3E-AE4E-C688D19EBF38_stringValue",
+      "value": "2018-01-25"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B17F9C02-044A-4DF2-9F80-40F2FD0562D3_symbolID",
+      "value": "B544ADA7-B1E7-4A20-B9AB-C7B4BF1C46AB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B17F9C02-044A-4DF2-9F80-40F2FD0562D3/B6884A39-1677-476C-BECB-55801BBE703A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ecd5bf87ba49f3ceb9e3a2c632f22488c46df8a",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A_stringValue",
+      "value": "閱讀全文"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC_stringValue",
+      "value": "【極限運動】Parkour愛好者：上天台不等於危跳「我們不是玩命」"
+    }
+  ],
+  "overrides": {
+    "46C58CDA-4CD6-4A31-B94A-04C94F3BEEDC": "【極限運動】Parkour愛好者：上天台不等於危跳「我們不是玩命」",
+    "7659D977-D293-4C3E-AE4E-C688D19EBF38": "2018-01-25",
+    "B17F9C02-044A-4DF2-9F80-40F2FD0562D3": {
+      "B6884A39-1677-476C-BECB-55801BBE703A": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4ecd5bf87ba49f3ceb9e3a2c632f22488c46df8a",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "B544ADA7-B1E7-4A20-B9AB-C7B4BF1C46AB"
+    },
+    "B261C0FE-AD4E-4022-A6A0-E2B020A1FD6A": "閱讀全文"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AB30A80-BD63-41A7-99CB-1BC88D4027AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7B45657F-51CA-46A3-ACFD-FAA003FCF625",
+  "verticalSpacing": 0
+}

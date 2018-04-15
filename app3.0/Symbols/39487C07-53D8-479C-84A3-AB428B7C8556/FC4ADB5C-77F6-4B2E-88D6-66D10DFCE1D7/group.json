@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "FC4ADB5C-77F6-4B2E-88D6-66D10DFCE1D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D857FB2-A5D2-4E6F-95D8-C2B111CE9DF0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6BEBD7DA-2CD4-493E-94EA-C0A8D8ECEDD0",
+    "height": 104,
+    "width": 104,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "53862B5A-18D4-4CD2-9286-644F098CB805"
+    },
+    {
+      "class": "text",
+      "id": "21AFE3DC-156E-48D7-9124-BD524C2FD5D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BC5CF22F-C90D-4CEC-978B-5BEA1FF87BD1"
+    }
+  ],
+  "name": "tile/service",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FC0D3A48-8063-49B7-9DDE-7CBDFEAC2C47",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

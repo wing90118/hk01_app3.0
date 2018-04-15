@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "6B5F1C2A-C5D3-4FAE-945D-66F4DC973BE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3CE7076-C105-4119-A0EA-000586D6C017",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "475AE703-0036-42BF-BE85-1F75339259E7",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8E37DD6A-6A9A-4951-BFFD-4819BEE27B81"
+    },
+    {
+      "class": "text",
+      "id": "0D3DD4CD-97D5-4E57-8077-AB0B53AF2DCE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6A471E84-D87C-40DC-B33F-38BB99F33B8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1853131-85E5-4ACE-B266-A042894E34C6"
+    }
+  ],
+  "name": "navBar/standard/light/android",
+  "nameIsFixed": true,
+  "originalObjectID": "4D9CC8FA-5D21-41A9-9DE2-B14228AC7A33",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8415B1BF-40B2-4D02-ADA1-E259129F3723",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "DE230DF9-D655-4F27-8F5D-4D60DA844FA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18D501DF-A01B-40B9-807A-F61285C505E8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79ACE518-8756-42DF-965F-94A6C9AE5A51",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 168
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA00CD2B-84D3-4977-BAA9-31C6C993823E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1AEEE55-E33C-49FF-BC10-BE679FAD260F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C86EB93-4DF5-46E1-9765-A19D3E6CCFFB"
+    }
+  ],
+  "name": "NotiPromo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E71BF50A-A8E2-4005-9DED-8D3F7A542AE5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1A00FF28-A388-4089-910B-8FAA48A4066C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FFB33EF-6BD3-4D8C-840F-B0DAA1DF620D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AE46EED-8AE2-4AA9-B158-E6EDB028ABB0",
+    "height": 24,
+    "width": 279,
+    "x": 12,
+    "y": 36
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "inputField/1col",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "41562F0C-9BD5-4976-9CB0-4F95CAC594FB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "09E2F9D8-453A-4880-B955-C589B50203AC_stringValue",
+      "value": "內容煽情"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F7FDDE69-F2E3-4113-871C-F21720DAD79B_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "89790103-2899-440F-AE4D-F5CCD7C5C0FD_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "09E2F9D8-453A-4880-B955-C589B50203AC": "內容煽情",
+    "41562F0C-9BD5-4976-9CB0-4F95CAC594FB": {
+      "symbolID": ""
+    },
+    "89790103-2899-440F-AE4D-F5CCD7C5C0FD": {
+      "symbolID": ""
+    },
+    "F7FDDE69-F2E3-4113-871C-F21720DAD79B": " "
+  },
+  "resizingConstraint": 25,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "25765589-6F64-4A28-8138-A3B979B67D98",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0181B949-29DE-4AB6-B1B1-3A1780BF35BA",
+  "verticalSpacing": 0
+}

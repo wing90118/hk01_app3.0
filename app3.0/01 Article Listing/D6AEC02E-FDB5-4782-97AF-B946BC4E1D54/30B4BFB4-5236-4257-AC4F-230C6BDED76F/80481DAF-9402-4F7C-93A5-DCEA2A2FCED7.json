@@ -1,0 +1,143 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "80481DAF-9402-4F7C-93A5-DCEA2A2FCED7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AE5CDE6-F502-45B5-92BA-4EF58C5F44CA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60B220E1-34E2-43F4-AD16-F9BCCFC951C7",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 324
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F51B110-9FD1-440B-8AD5-14CC5F38DD69/9B107EA4-103C-4F24-80B0-8DD05C2291AB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/abbfa710de682e1ff589dfe62ac7e9d9adc8b8c7",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2DB19FB5-C65A-429C-A76E-A5A2F56E0C9B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E3296C6-2D7F-4692-8B18-FAE2F49CE4A5_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE0624DD-4665-4005-B61D-63060AE0ED69_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "799503CA-5362-4D6F-9656-A2F04B2665F8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC8889C3-B163-4544-B61F-A8B763521131_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7659D977-D293-4C3E-AE4E-C688D19EBF38_stringValue",
+      "value": "3小時前"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "ABBB3604-E6BB-4EB2-BFF7-6BFB335D7ACA_stringValue",
+      "value": "扭耳仔"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0DD32DCC-EFDF-44A5-AB51-826B74D419F0_stringValue",
+      "value": "【選擇性失聰】關於懷舊：shoegaze就是我的golden oldies?"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F51B110-9FD1-440B-8AD5-14CC5F38DD69_symbolID",
+      "value": "B544ADA7-B1E7-4A20-B9AB-C7B4BF1C46AB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F51B110-9FD1-440B-8AD5-14CC5F38DD69/B6884A39-1677-476C-BECB-55801BBE703A_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/494a60008d5df38f16c7267674e4186b4f9cb261",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "0DD32DCC-EFDF-44A5-AB51-826B74D419F0": "【選擇性失聰】關於懷舊：shoegaze就是我的golden oldies?",
+    "2DB19FB5-C65A-429C-A76E-A5A2F56E0C9B": {
+      "symbolID": ""
+    },
+    "2F51B110-9FD1-440B-8AD5-14CC5F38DD69": {
+      "9B107EA4-103C-4F24-80B0-8DD05C2291AB": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/abbfa710de682e1ff589dfe62ac7e9d9adc8b8c7",
+        "_ref_class": "MSImageData"
+      },
+      "B6884A39-1677-476C-BECB-55801BBE703A": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/494a60008d5df38f16c7267674e4186b4f9cb261",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "B544ADA7-B1E7-4A20-B9AB-C7B4BF1C46AB"
+    },
+    "6E3296C6-2D7F-4692-8B18-FAE2F49CE4A5": {
+      "symbolID": ""
+    },
+    "7659D977-D293-4C3E-AE4E-C688D19EBF38": "3小時前",
+    "799503CA-5362-4D6F-9656-A2F04B2665F8": {
+      "symbolID": ""
+    },
+    "ABBB3604-E6BB-4EB2-BFF7-6BFB335D7ACA": "扭耳仔",
+    "CC8889C3-B163-4544-B61F-A8B763521131": {
+      "symbolID": ""
+    },
+    "FE0624DD-4665-4005-B61D-63060AE0ED69": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4E38448-F4F7-46BF-B361-8EAC7C7667E6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "030876C9-6D15-42EB-81D3-A1846D667C6D",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0F473D54-A12C-445B-8B59-26C6EB851A4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5C86D60-A497-458C-A8F2-ECEE9077C798",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A8C29B1-859F-40A2-BFE0-5A047893D772",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 4
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/comment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/8235F215-9730-41B3-844B-8FF4BCFFD93B_stringValue",
+      "value": "發表評論⋯"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F3083FD2-30BA-4EA6-A715-959888B14F80_symbolID",
+      "value": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1C254249-088D-411E-8924-B29CA7440258/47C50044-EC9E-4496-BAA8-CC8C268B347B_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "1C254249-088D-411E-8924-B29CA7440258": {
+      "47C50044-EC9E-4496-BAA8-CC8C268B347B": " ",
+      "8235F215-9730-41B3-844B-8FF4BCFFD93B": "發表評論⋯"
+    },
+    "F3083FD2-30BA-4EA6-A715-959888B14F80": {
+      "symbolID": "A0CC1B00-F59E-4035-AE57-67B3DF6EFF60"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44A2DB5E-DE6D-43FE-A3AA-E8C7E3272B6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "C4754E5A-FF44-49EA-A7B7-2586299351E9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

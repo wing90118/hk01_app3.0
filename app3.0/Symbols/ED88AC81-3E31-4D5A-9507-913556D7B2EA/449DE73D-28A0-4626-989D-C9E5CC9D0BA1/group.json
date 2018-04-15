@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "449DE73D-28A0-4626-989D-C9E5CC9D0BA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "305FAC26-7D8B-4584-807E-C7E8570B57A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1D240EDD-60A8-49D5-B74C-8A24C008198A",
+    "height": 60,
+    "width": 60,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F636CEB0-BD18-4990-B556-4CDFCB470C79"
+    },
+    {
+      "class": "group",
+      "id": "F90CC045-F999-4AF3-8AAE-9412FA3FEDB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17005F62-3070-4D96-AF34-60755A7E5E8E"
+    }
+  ],
+  "name": "btn_playThumb",
+  "nameIsFixed": true,
+  "originalObjectID": "1D3E394A-D2DB-4C83-BADB-4361AD3D0CE7",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0EF454BD-B592-4FF7-9E07-1391130D165F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

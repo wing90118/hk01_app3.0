@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "3B3E05CD-B454-453A-9CEF-1B0C8E00171E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E2CAC07-AD0F-4A9B-B0F6-2DD6E659F563",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C6578A3-3C91-4B9D-A9A3-BF64DB3A7AD9",
+    "height": 109,
+    "width": 109,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "83411FBD-FC21-4948-9E47-A49C23AB7091"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DB4EA77A-BD7E-4D7D-9437-1994B185D6D1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3392F3E2-82DE-4CC4-A5D8-2844F09932AD"
+    }
+  ],
+  "name": "tile/service",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "239FCEA6-C422-4217-9655-AA37766FDB1F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

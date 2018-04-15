@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "BEF0A2BB-262E-48EA-9A0A-7E2A5538CCCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA6568D8-52D8-4186-8EEE-8C59285ADF5C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C85D21CA-3CD9-47A3-9F59-3154C1E3EE6A",
+    "height": 78,
+    "width": 375,
+    "x": 0,
+    "y": 373
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2A605FDA-D534-43C0-A17B-9F01F4E8DCDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0A78DE9-A346-4286-8A24-5E954946B52F"
+    },
+    {
+      "class": "group",
+      "id": "68696AB2-07D5-4ED7-8F46-86C793787D00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77CF94F8-0774-446A-825D-14AEFE2A28B2"
+    }
+  ],
+  "name": "bar/comment",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75D2DC40-CFF7-40BF-9E39-CE05A3A4E25E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0.2509803921568627,
+          "green": 0.2274509803921569,
+          "red": 0.203921568627451
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": -1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

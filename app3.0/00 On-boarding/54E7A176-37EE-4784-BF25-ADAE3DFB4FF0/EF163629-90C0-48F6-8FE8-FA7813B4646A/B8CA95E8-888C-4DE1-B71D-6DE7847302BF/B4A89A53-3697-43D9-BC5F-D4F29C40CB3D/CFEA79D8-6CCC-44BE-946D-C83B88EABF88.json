@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CFEA79D8-6CCC-44BE-946D-C83B88EABF88",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0037481B-3C81-4BD0-9BB1-B09A8725DA15",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E76A337-6B6A-46A9-962C-92F028384EE9",
+    "height": 807,
+    "width": 389,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPhone SE",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "556FC690-2901-48DD-AAEE-843F5BD4EB04",
+      "overrideName": "4813BC7B-01F8-42B6-B5F8-F1730D9393EF_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/507c035041443a6c54acdc62423ccec3310072ef",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "4813BC7B-01F8-42B6-B5F8-F1730D9393EF": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/507c035041443a6c54acdc62423ccec3310072ef",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.516795865633075,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "74D2A4C4-A58A-42DC-894F-27244F1344C8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.167958656330749,
+      "type": 0
+    },
+    "do_objectID": "9C78F146-AF27-42FB-AD79-51FDC68AD960",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F6293983-D18D-4747-AB97-17AC3CC5B7D0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

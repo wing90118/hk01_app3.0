@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EC1C2A7D-FF86-4FED-A85F-A8FA64EBF8CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F19CEDAF-0440-48F9-90D0-BDA151B270DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4E2EA81-1583-43A8-80B1-45C8EA27AC78",
+    "height": 200,
+    "width": 276,
+    "x": 50,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "visual/invite",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.9852216748768473,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0BC116BA-3993-45E3-945A-1F161C95458E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.852216748768473,
+      "type": 0
+    },
+    "do_objectID": "59D7014C-59C8-4B43-8CA9-AC41A6F7AA17",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5CF0C6E9-B124-47D2-B28A-29ECF4C2CE6A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

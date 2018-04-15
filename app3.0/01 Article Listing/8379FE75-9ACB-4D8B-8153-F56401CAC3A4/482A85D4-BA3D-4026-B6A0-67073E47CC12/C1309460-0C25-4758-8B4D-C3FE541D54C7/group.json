@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "C1309460-0C25-4758-8B4D-C3FE541D54C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C7577664-D774-44EE-A304-B2BA4ACE886F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A1212B2-E9CB-4FF9-9206-A1FFBE7FB332",
+    "height": 92,
+    "width": 496,
+    "x": 0,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DC406CCC-6EFB-4D28-8152-D662FD07EFB1"
+    },
+    {
+      "class": "group",
+      "id": "8566AB24-73D5-48F0-8ECA-55A75E30276A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F21A487-934E-4B71-903A-727EF3FF3395"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2430CAD-B95B-4B95-911C-C9DEE7ED7C06"
+    }
+  ],
+  "name": "header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CADF3A0A-E6C1-4DD6-8CDD-24925872270B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

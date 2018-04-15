@@ -1,0 +1,65 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B5F0DEFF-0C58-4136-9FD2-73D43E3B0F38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0482310C-4FC9-4705-BB83-D5A5B93E6A18",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "380EB894-2DB1-4C6D-922A-3D5B9D7E7884",
+    "height": 32,
+    "width": 80,
+    "x": 88,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tag/channel/normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F08C909B-ED2D-4D38-9968-6DEE9A1ADDD1",
+      "overrideName": "7A08DE01-6129-47DD-8251-BAA81DBBC754_stringValue",
+      "value": "最Hit"
+    }
+  ],
+  "overrides": {
+    "7A08DE01-6129-47DD-8251-BAA81DBBC754": "最Hit"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4980FF00-6C1A-4FB9-BBC1-FD4B1E075B74",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AC4D6340-FD47-457F-A3AD-2A6E7232D026",
+  "verticalSpacing": 0
+}

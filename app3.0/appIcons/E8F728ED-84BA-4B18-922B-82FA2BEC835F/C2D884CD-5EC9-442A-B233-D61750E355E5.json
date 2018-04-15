@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C2D884CD-5EC9-442A-B233-D61750E355E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AA0D0866-2517-4301-938F-4918582F8686",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "57F6D0C1-4E0D-4862-8E0D-7D9052E6D7AE",
+    "height": 1024,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "appIcon_android",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 11.37777777777778,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "07C72DD6-AE56-476C-A10B-11E4D346BD8B",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 113.7777777777778,
+      "type": 0
+    },
+    "do_objectID": "AB5B9C79-8C10-47C5-8B4E-EDD6789370F2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FF6E574E-5300-42FE-84EF-8738A8209105",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9FB6A88B-ECB1-42CC-8BF5-D4E04F7BCB11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2720A431-6831-4E62-A5B8-91F2EC304DFE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1194B0F-CD74-42CD-B954-95A7DC01412F",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "row/display",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B_symbolID",
+      "value": "732B5C3D-660B-4207-A132-522A09403521"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D67626C9-6FEB-4138-BE3A-42392CFB9D6B/A61F7B9A-4D03-4296-9C0A-5CCE05030F6D_symbolID",
+      "value": "7CC8CFFF-37F3-49A4-9414-7FEEA4F50E69"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E63C48DE-1BB5-4B20-8F0F-AD513794B31A_symbolID",
+      "value": "8CF61F0D-AB75-45DE-A63A-8F1215FCD61D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E63C48DE-1BB5-4B20-8F0F-AD513794B31A/E0405C23-823A-4303-A8AD-CAC00CB5A7CD_stringValue",
+      "value": "Facebook 綁定"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E63C48DE-1BB5-4B20-8F0F-AD513794B31A/3A77D90A-50DA-48FB-89F0-AA110FB22F0B_symbolID",
+      "value": "7A570DE0-40FA-4C84-9862-AF530338F6DC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "707F0277-F59F-4E01-A5F7-AD42B668FB67_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "707F0277-F59F-4E01-A5F7-AD42B668FB67": {
+      "symbolID": ""
+    },
+    "7733FF6D-C663-466E-9AE0-EB28E2E9DC6A": {
+      "symbolID": ""
+    },
+    "D67626C9-6FEB-4138-BE3A-42392CFB9D6B": {
+      "A61F7B9A-4D03-4296-9C0A-5CCE05030F6D": {
+        "symbolID": "7CC8CFFF-37F3-49A4-9414-7FEEA4F50E69"
+      },
+      "symbolID": "732B5C3D-660B-4207-A132-522A09403521"
+    },
+    "E63C48DE-1BB5-4B20-8F0F-AD513794B31A": {
+      "3A77D90A-50DA-48FB-89F0-AA110FB22F0B": {
+        "symbolID": "7A570DE0-40FA-4C84-9862-AF530338F6DC"
+      },
+      "E0405C23-823A-4303-A8AD-CAC00CB5A7CD": "Facebook 綁定",
+      "symbolID": "8CF61F0D-AB75-45DE-A63A-8F1215FCD61D"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1753919F-36A2-436A-A0D9-35AC3B137D62",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "121B1D7E-D75F-4C35-B994-2275F2FB4090",
+  "verticalSpacing": 0
+}

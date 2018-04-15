@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "639EF17A-2D20-42C0-856B-F1359DF18F98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6A7E8A49-B720-4D01-8B53-1E19AF7D4BF3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A0361A7-216E-400A-9D23-3936955E3D7B",
+    "height": 118,
+    "width": 375,
+    "x": 56,
+    "y": 186
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/notification/userInteraction",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7D65FD07-370B-4EDD-AEDD-E36EE983CC95_stringValue",
+      "value": "ParKOR 也評論了文章：【野蒲人生】與鄧洢玲的「山步行」 尋回兒時的 Team..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "1175A2AA-7062-42C1-8B41-5A4FDBBC95C0_stringValue",
+      "value": "2018-01-14"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E1D81AD-A6F1-4A8A-8DF0-F4882EE72DCE_symbolID",
+      "value": "ED83D368-C909-419A-A936-23662A15600E"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E1D81AD-A6F1-4A8A-8DF0-F4882EE72DCE/1D701897-B06F-4973-A236-CBBD24D7B1C6_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3c7bdb5488e6953b1b6b19a8cfd2f932074ac3fa",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "1175A2AA-7062-42C1-8B41-5A4FDBBC95C0": "2018-01-14",
+    "6E1D81AD-A6F1-4A8A-8DF0-F4882EE72DCE": {
+      "1D701897-B06F-4973-A236-CBBD24D7B1C6": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3c7bdb5488e6953b1b6b19a8cfd2f932074ac3fa",
+        "_ref_class": "MSImageData"
+      },
+      "symbolID": "ED83D368-C909-419A-A936-23662A15600E"
+    },
+    "7D65FD07-370B-4EDD-AEDD-E36EE983CC95": "ParKOR 也評論了文章：【野蒲人生】與鄧洢玲的「山步行」 尋回兒時的 Team..."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "13DB768F-9AF3-419E-B84B-1012F9C4DE64",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AE5B8539-5914-47A5-A615-5D0FD3528285",
+  "verticalSpacing": 0
+}

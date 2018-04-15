@@ -1,0 +1,103 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "8D8DB0A0-C4D1-4D3A-82E1-DE50A3816C03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B7F65AE5-A124-46CD-94EF-22FD308161A8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58F63F96-FFA0-45CB-97D8-B216290753CB",
+    "height": 10.68037974683544,
+    "width": 14.0625,
+    "x": 96.09375,
+    "y": 6.526898734177201
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CA381F15-8EE5-48DE-A0B0-E8119CA35703"
+    },
+    {
+      "class": "shapePath",
+      "id": "2FFA762E-7662-4C4D-A287-D9B2332754AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "3DCA0911-DF65-48B3-BB6F-C79AAD0754EF"
+    }
+  ],
+  "name": "Wifi",
+  "nameIsFixed": true,
+  "originalObjectID": "799A8A71-8CE9-4427-AFE3-33E936455DDB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A838A72D-67BE-423F-A9CD-1291C68CC3E3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.859375,
+      "type": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 0.5859375
+      }
+    ],
+    "do_objectID": "540AD280-4413-4F63-98A4-0769F11A2BDF",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0.0470588235294118
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

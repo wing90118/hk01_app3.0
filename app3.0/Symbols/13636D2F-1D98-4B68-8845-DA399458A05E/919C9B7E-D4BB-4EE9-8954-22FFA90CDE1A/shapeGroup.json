@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "919C9B7E-D4BB-4EE9-8954-22FFA90CDE1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78260FB9-282A-4578-9DCA-2FC1BACFF169",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "7D731057-4C74-433F-8AD0-141AD7F34C56",
+    "height": 20,
+    "width": 20,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F11093FD-3369-4EED-865E-649CBE0E9ACF"
+    },
+    {
+      "class": "shapePath",
+      "id": "0BFA109C-2946-442A-AA63-5E71589DBD19"
+    },
+    {
+      "class": "shapePath",
+      "id": "E0C5FAC1-73DE-4B6A-8AC1-A0C8112B95B3"
+    }
+  ],
+  "name": "clock",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AA405B9A-7B39-41CF-8A38-DC213C603207"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 20,
+            "enabled": 1,
+            "modelID": "constraint_4d784d30-8c51-4a46-83e8-ad07727dc8e1",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 20
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_4d28f661-f070-4482-b55d-32264c0365dc",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

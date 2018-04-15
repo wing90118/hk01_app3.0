@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "do_objectID": "074DCE39-EDEC-4C2C-9E4F-1B02B13B2E9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E24AAEB2-D681-40F7-848E-70821252C2D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4B1BBC20-4BE1-438F-8A6D-D87FF10408FE",
+    "height": 48,
+    "width": 232,
+    "x": 40,
+    "y": 304
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BD0BCDE3-4F9D-4BA7-AE06-2925698098C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D81A0D63-5AF1-482E-A7BB-DAE15010746B"
+    },
+    {
+      "class": "text",
+      "id": "3141D684-C0F3-47C7-AD11-3B647EBAFCD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E93E0464-0DD0-44FC-B84E-B0C3C24A6996"
+    }
+  ],
+  "name": "btn/cta",
+  "nameIsFixed": true,
+  "originalObjectID": "12BC628D-D14D-48A7-BDA3-6E477D55F571",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F0AD19AE-19DF-42AD-9B50-9A3564770495",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "47EBAF3D-397A-4481-8443-7F4DB8C1587B",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

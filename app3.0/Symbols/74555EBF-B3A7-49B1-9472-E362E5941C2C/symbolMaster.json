@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.05882352941176471,
+    "do_objectID": "22001995-31FD-4CDE-94C1-A2168AF191EF",
+    "green": 0.02745098039215689,
+    "red": 0.01176470588235294
+  },
+  "changeIdentifier": 2276,
+  "do_objectID": "74555EBF-B3A7-49B1-9472-E362E5941C2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52CC76B6-08D4-4EF5-841B-ABA74C78608A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC71442E-1F5A-434A-8EDD-B0D24904B069",
+    "height": 24,
+    "width": 24,
+    "x": 248,
+    "y": 17552
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C3C24F74-1B5F-4776-B7D1-8427C6D5E68A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "29DD0FCB-8BF3-4A41-AAF1-ADC2CB07C140"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28C9158C-CD6C-43BB-B8DC-673DC5995995"
+    }
+  ],
+  "name": "ico_creditCard/ico_creditCard_invert",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B90BA232-F179-4210-8FDD-542EDF8AE341",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E7FA6040-3239-45E1-9CD2-AE03615A9A2F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "885F7B1A-6DF7-463F-865C-F66BA67BF44F",
+    "guides": [
+    ]
+  }
+}

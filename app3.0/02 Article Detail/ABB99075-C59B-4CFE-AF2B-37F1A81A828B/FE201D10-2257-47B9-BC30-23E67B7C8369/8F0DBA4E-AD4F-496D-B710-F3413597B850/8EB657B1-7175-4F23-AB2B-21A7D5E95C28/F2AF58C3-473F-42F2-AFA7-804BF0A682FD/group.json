@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "F2AF58C3-473F-42F2-AFA7-804BF0A682FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F59747E9-53E9-428E-825D-41BE1D95432E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3857825C-87CB-48B4-A4BA-7FFB3F9037F3",
+    "height": 16,
+    "width": 266,
+    "x": 54,
+    "y": 3264
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "260F3141-3A16-468F-950E-DDD17DFD37BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2820EBE0-C8E8-4190-BA70-B5B63F44C3ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D52120A-C8D5-4A81-89CD-74967C332A3C"
+    }
+  ],
+  "name": "swipeCue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71B65DD2-AD74-4AE9-92B8-B4C24FC9818A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

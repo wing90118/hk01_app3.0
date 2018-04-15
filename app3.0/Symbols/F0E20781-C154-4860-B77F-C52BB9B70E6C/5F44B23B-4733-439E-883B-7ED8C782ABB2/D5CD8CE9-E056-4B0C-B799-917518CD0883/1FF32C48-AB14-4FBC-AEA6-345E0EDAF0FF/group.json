@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "1FF32C48-AB14-4FBC-AEA6-345E0EDAF0FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 64,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "597EEA65-8E63-4F6D-BE5F-D8BE5319BE86"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C4B7F860-3CCA-40CF-A1A1-AB8AD5AB8E6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8EA159F2-DB48-4B0A-A150-650648981C9F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B943F6B6-3448-4511-93B4-6946AC9802B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21307277-D74D-4E8C-A9B5-C4C8A47E24EF"
+    }
+  ],
+  "name": "lightning",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 68,
+            "enabled": 1,
+            "modelID": "constraint_a1f72c43-29fe-4ae5-aeef-37ff1b106a58",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 68
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e97f6bc1-f9c8-4a87-9a5d-dcfce5043e5e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

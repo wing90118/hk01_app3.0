@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7C98FD89-78DB-4821-9F16-838F4CCC4B9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "379841D0-6069-40C7-9961-9E65B29F01EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5DE33E0F-8B77-4332-8326-57C5C6C33706",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "bar/navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "24BC969D-C68F-4718-A6C4-F6B4633EBB67_stringValue",
+      "value": "國際"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "E492D6EB-7C04-401F-884D-2624EAB263B8_symbolID",
+      "value": "CB775035-62F6-4BD3-B752-5CD93B2915F9"
+    }
+  ],
+  "overrides": {
+    "24BC969D-C68F-4718-A6C4-F6B4633EBB67": "國際",
+    "E492D6EB-7C04-401F-884D-2624EAB263B8": {
+      "symbolID": "CB775035-62F6-4BD3-B752-5CD93B2915F9"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83320766-50AB-42F7-BAD1-48AA14A908CA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "05B8E889-2C87-4EFD-BC30-139F625FAC28",
+  "verticalSpacing": 0
+}

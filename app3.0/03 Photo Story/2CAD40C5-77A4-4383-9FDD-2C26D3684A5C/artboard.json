@@ -1,0 +1,159 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.05882352941176471,
+    "do_objectID": "320CE2D0-410C-47DB-856A-13DA1112FCA9",
+    "green": 0.02745098039215689,
+    "red": 0.01176470588235294
+  },
+  "do_objectID": "2CAD40C5-77A4-4383-9FDD-2C26D3684A5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6D5D717-987A-4460-9C5E-762382F6AB37",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0E56855-70EA-484F-818A-230FFDE53538",
+    "height": 667,
+    "width": 375,
+    "x": -988,
+    "y": -184
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "47DFE07D-469B-4FDB-A523-B6B0205AB1CB",
+    "guides": [
+      125,
+      133,
+      242,
+      250,
+      375,
+      0,
+      16,
+      359
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8C6D4677-4C1E-4530-AB82-0063B88EDE58"
+    },
+    {
+      "class": "group",
+      "id": "48F99D90-C692-4581-BD5E-B1A797A9529A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9813112-9200-4F07-BFE2-AF9D623BFB72"
+    },
+    {
+      "class": "group",
+      "id": "2C195F9F-1296-42EC-A699-F2D6EEAD5D11"
+    },
+    {
+      "class": "group",
+      "id": "9C0CA69A-2FE7-48D7-85DA-60EBE29994A1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0108B213-0FA1-47ED-8338-4DEA37631F5F"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 16,
+    "do_objectID": "226680B9-878A-42F9-9198-EECB2E66DFBE",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 343,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Photo Story Slide Up",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "82255ADD-400D-4430-8800-DFC1A8DD8722",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40F05834-347B-4A00-BC8E-ABEAE0CD6E8B",
+    "guides": [
+    ]
+  }
+}

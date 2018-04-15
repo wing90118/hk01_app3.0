@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "ED6F6DDE-86EE-40DA-8C52-F51A13129359",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24B7C05A-B443-48EE-86E1-816047A22CFD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D272D426-93AF-44E7-8028-8684D5218FA7",
+    "height": 48,
+    "width": 311,
+    "x": 32,
+    "y": 32
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn_mobile",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "80F4C543-C21D-4A53-ACE1-7050C98D6CD3_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C372698E-6061-4D26-A183-7D4B918DF84B_symbolID",
+      "value": "4300CC44-CE30-4922-9A8F-8BB860A02D51"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68918AFC-9BA8-4F85-90F7-1E4B6F4FE0EE_stringValue",
+      "value": "手機號碼登入"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A5257707-B57A-49C2-8625-AEC48B7ABA67_symbolID",
+      "value": "B0BBEDD1-A436-46D9-8F55-9BA0DB163239"
+    }
+  ],
+  "overrides": {
+    "68918AFC-9BA8-4F85-90F7-1E4B6F4FE0EE": "手機號碼登入",
+    "80F4C543-C21D-4A53-ACE1-7050C98D6CD3": " ",
+    "A5257707-B57A-49C2-8625-AEC48B7ABA67": {
+      "symbolID": "B0BBEDD1-A436-46D9-8F55-9BA0DB163239"
+    },
+    "C372698E-6061-4D26-A183-7D4B918DF84B": {
+      "symbolID": "4300CC44-CE30-4922-9A8F-8BB860A02D51"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B483A99-A871-4486-A4BA-916A097B308C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "23166608-BC6D-48E4-AAEE-7076869ACF8B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

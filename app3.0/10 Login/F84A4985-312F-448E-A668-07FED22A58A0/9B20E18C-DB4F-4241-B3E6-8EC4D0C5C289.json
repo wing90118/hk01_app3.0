@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9B20E18C-DB4F-4241-B3E6-8EC4D0C5C289",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C5B65FA7-7873-4228-9BE5-0766CB9F6218",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB9EC783-FB95-414D-B71C-BE588FA53EE0",
+    "height": 40,
+    "width": 140,
+    "x": 16,
+    "y": 254
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/secondaryAction/ico",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16C21AB0-E85E-4EFE-B41D-F8A74DFC6E09_stringValue",
+      "value": "使用密碼登入"
+    }
+  ],
+  "overrides": {
+    "16C21AB0-E85E-4EFE-B41D-F8A74DFC6E09": "使用密碼登入"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F364A87-B806-4068-B63D-8C915FB95FD3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1DD73786-E50A-4B49-A9FE-F044DED8AF88",
+  "verticalSpacing": 0
+}

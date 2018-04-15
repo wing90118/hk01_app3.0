@@ -1,0 +1,105 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0,
+    "do_objectID": "4D8C94D1-17FF-42F1-8055-EF9A2BE1D548",
+    "green": 0,
+    "red": 0
+  },
+  "do_objectID": "046EF51B-F28B-4B9B-B230-D9371694B2D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "16406570-592D-4C4D-BC6A-F8F993132BB1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1DF8D36-BDF5-4488-B7A6-FF32B3E86C86",
+    "height": 812,
+    "width": 375,
+    "x": 2928,
+    "y": -329
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2BB8024A-AD77-4B06-B067-AF99D4A03F71",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4EDE2C85-8BC6-4CFA-B1C3-9E0FF3443829"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "475CD927-4570-439E-8F4E-A5D7F2C1651B"
+    },
+    {
+      "class": "group",
+      "id": "70B3D2F8-FC33-4228-A77F-310107171CEC"
+    }
+  ],
+  "name": "tutorialScreenCapX",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEDB7A6C-EA2C-40D1-B32F-98B15DC2BC5D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B3BDD872-CD74-48D2-B956-0033195C07A1",
+    "guides": [
+      -1,
+      778,
+      44,
+      131,
+      778,
+      729
+    ]
+  }
+}

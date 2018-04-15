@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "A13B0706-39E5-487F-9B52-153CDA0CF42D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64189EFF-66CB-40D5-9768-3AD58D671A08",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ED20B26C-5AA8-4FB2-A674-EBA0A45D80D5",
+    "height": 75.5859375,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "160EE2C1-56C3-4E16-8776-F64DF8C4F448"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F94F008-3C8F-4A4B-8499-F4804FBF4E34"
+    }
+  ],
+  "name": "Nav Bar Background",
+  "nameIsFixed": true,
+  "originalObjectID": "1DF1F895-8933-412C-8128-74B4E02B614A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "9A050829-47CF-4538-A350-BC24E9AEAE9E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.859375,
+      "type": 0
+    },
+    "do_objectID": "65E847C4-F1CA-41B6-99CA-78C52629663C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

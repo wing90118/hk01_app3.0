@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7F66763F-5EED-46A4-B49E-008E4BCF38CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FFE66A1-52A9-4FE2-A635-FE3A029E3586",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34F49550-F07E-4E83-A532-23D7454DD876",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E492D6EB-7C04-401F-884D-2624EAB263B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "60502F99-1743-42B8-B165-141E68CCA503_stringValue",
+      "value": "電郵登入"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3D9AFA7D-B955-4D65-A526-432AACEE5E05_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "3D9AFA7D-B955-4D65-A526-432AACEE5E05": " ",
+    "60502F99-1743-42B8-B165-141E68CCA503": "電郵登入",
+    "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE": " ",
+    "E492D6EB-7C04-401F-884D-2624EAB263B8": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7D79BB7-21D0-4B71-9B49-A695D0DF5B8A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A394EAE7-7335-4BE9-8C63-94451A532EFC",
+  "verticalSpacing": 0
+}

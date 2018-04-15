@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9BAA3E53-4644-4012-A55B-976A24CD1483",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "79646773-7E54-42C2-AC6C-1186BBEB86FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A922BB1-1024-44C3-946F-43413EDD4123",
+    "height": 40,
+    "width": 183,
+    "x": 96,
+    "y": 214
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "btn/cta/primaryAction/plainTxt",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "90CB1F3A-582F-4A7E-9921-D95260432729_stringValue",
+      "value": "登入"
+    }
+  ],
+  "overrides": {
+    "90CB1F3A-582F-4A7E-9921-D95260432729": "登入"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E69E654-C341-4544-A9B7-2F323F7DAF91",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9EDC40D1-F924-49BD-BF50-CA04B7AEE406",
+  "verticalSpacing": 0
+}

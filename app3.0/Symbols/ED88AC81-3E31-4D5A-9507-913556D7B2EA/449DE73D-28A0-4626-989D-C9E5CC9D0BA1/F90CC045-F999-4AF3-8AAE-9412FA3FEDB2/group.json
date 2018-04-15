@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "F90CC045-F999-4AF3-8AAE-9412FA3FEDB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE75F25B-71EE-4F2A-BDEE-4BBFC540E2C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1EECAD50-BA81-4BB4-9AD2-8D39BB1431C0",
+    "height": 26,
+    "width": 26,
+    "x": 17,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D52E2D6-1ED6-4B2A-A64B-D0E0B2F50BDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C488052-86F8-45F5-AAC9-246EB18B8221"
+    },
+    {
+      "class": "slice",
+      "id": "42EC3910-129D-409E-87EB-EAB183DA2FA3"
+    }
+  ],
+  "name": "ico_playOvol",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7744CE7C-CA3B-4ABC-82EF-A4506BFA121F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8EB9B04F-4008-4C73-BCAB-06E5FD4FDCF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70B0091A-49ED-43C4-9D73-2E7213BE374D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B6B412E-87BF-4143-9C2C-82F49DCD6AD6",
+    "height": 324,
+    "width": 375,
+    "x": 0,
+    "y": 92
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/large/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CA57683B-3B9F-46C1-B319-9341F4800286/9B107EA4-103C-4F24-80B0-8DD05C2291AB_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/abbfa710de682e1ff589dfe62ac7e9d9adc8b8c7",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "265DBD74-40EA-46C6-8DAF-F937776AFCC9",
+      "overrideName": "496A0C26-6A4E-49D9-8106-F2C7AF7BE47B_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81704E66-666F-4773-923B-3F5C59130CDB",
+      "overrideName": "7883B95D-4C22-4FE3-8BB5-AB4A3B77AC03_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABE4239F-83A1-4A5E-AE84-9948431F1DE2",
+      "overrideName": "07E1D653-E7D3-47B7-A448-04AD9CF28508_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA88A25A-BF38-40DE-89EE-1F234FFF48B6",
+      "overrideName": "86F2363B-7450-47E4-B2D6-CB2E49958EBC/0C855B2C-DE01-4F4B-963E-882E428D376B_stringValue",
+      "value": "01:23"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F50CC3F-5F1B-4F8A-BD1D-986FF067AC6A",
+      "overrideName": "932B1D0B-F422-4D7E-A65D-CE27152931A5_stringValue",
+      "value": "2018-02-25"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7AC37B44-B01F-4B9C-80C2-5CA6E7C50132",
+      "overrideName": "3CDB71DC-B355-480B-BFFD-8C63EB3A9552_stringValue",
+      "value": "活動"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F46E06BD-4369-46BB-9A9E-C3275F153EE9",
+      "overrideName": "03AC1CB0-F0D7-49ED-8760-C09B080403A0_stringValue",
+      "value": "【香港電影我撐場系列】《大樂師．為愛配樂》電影放映會及映後談"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DCB56C19-D06E-4D4E-B9F8-489BC7E860B0",
+      "overrideName": "CA57683B-3B9F-46C1-B319-9341F4800286/D52F8608-5FBB-4E3A-8C84-87FF369BA313_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/606515f5b46759a1e1238e34f6fb5a13eee1b70e",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "03AC1CB0-F0D7-49ED-8760-C09B080403A0": "【香港電影我撐場系列】《大樂師．為愛配樂》電影放映會及映後談",
+    "07E1D653-E7D3-47B7-A448-04AD9CF28508": {
+      "symbolID": ""
+    },
+    "3CDB71DC-B355-480B-BFFD-8C63EB3A9552": "活動",
+    "496A0C26-6A4E-49D9-8106-F2C7AF7BE47B": {
+      "symbolID": ""
+    },
+    "7883B95D-4C22-4FE3-8BB5-AB4A3B77AC03": {
+      "symbolID": ""
+    },
+    "86F2363B-7450-47E4-B2D6-CB2E49958EBC": {
+      "0C855B2C-DE01-4F4B-963E-882E428D376B": "01:23"
+    },
+    "932B1D0B-F422-4D7E-A65D-CE27152931A5": "2018-02-25",
+    "CA57683B-3B9F-46C1-B319-9341F4800286": {
+      "9B107EA4-103C-4F24-80B0-8DD05C2291AB": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/abbfa710de682e1ff589dfe62ac7e9d9adc8b8c7",
+        "_ref_class": "MSImageData"
+      },
+      "D52F8608-5FBB-4E3A-8C84-87FF369BA313": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/606515f5b46759a1e1238e34f6fb5a13eee1b70e",
+        "_ref_class": "MSImageData"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4E02B57-7A85-4E52-A916-E0214ACBEF07",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "030876C9-6D15-42EB-81D3-A1846D667C6D",
+  "verticalSpacing": 0
+}

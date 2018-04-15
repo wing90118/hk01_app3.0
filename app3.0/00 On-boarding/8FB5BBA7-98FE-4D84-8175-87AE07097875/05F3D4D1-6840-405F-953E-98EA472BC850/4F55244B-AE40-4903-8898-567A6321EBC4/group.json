@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "4F55244B-AE40-4903-8898-567A6321EBC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB04242B-7D9C-467C-9D54-A64FC88EB73C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB761391-AA57-4931-95C4-71B08F7DEB97",
+    "height": 108,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F7610E37-913F-46AD-9623-2A8ABDF06CD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E3B19DC-2C6C-4BDE-8544-44CFED90B99B"
+    },
+    {
+      "class": "group",
+      "id": "79B32BBF-3748-420E-8ADB-B2F0F38CA3A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D8F8FC6-BE9A-4545-9C98-DE14508A2109"
+    }
+  ],
+  "name": "header",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7898E243-BAE8-42DE-96D7-0E3AD2420E71",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 2,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0.1568627450980392,
+          "green": 0.1176470588235294,
+          "red": 0.1019607843137255
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 1,
+        "spread": 0
+      }
+    ],
+    "sharedObjectID": "47EBAF3D-397A-4481-8443-7F4DB8C1587B",
+    "startDecorationType": 0
+  }
+}

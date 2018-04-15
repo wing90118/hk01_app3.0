@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "do_objectID": "CF3BB904-8435-488A-B5F0-275AA31C2AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0D2EAE3-FE0B-4CDE-B819-28DD0076981D",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BE599A40-5D7B-4672-90B2-7F029ABF7379",
+    "height": 159,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9539762F-7A86-4C51-8270-BC028413C422"
+    },
+    {
+      "class": "group",
+      "id": "13CB4752-4E57-412D-ABFB-159ADBD24B48"
+    },
+    {
+      "class": "group",
+      "id": "2642CA8C-6FAE-449E-AEC1-77174F2F6664"
+    },
+    {
+      "class": "group",
+      "id": "D4916D21-D138-4F40-BC64-6A481DD191A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B516BC2D-D328-4688-9A2C-167BF212DD1A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "05291EEE-33D5-4023-9669-B5B61F268BCB"
+    },
+    {
+      "class": "group",
+      "id": "7E94C294-3822-445A-80BC-8B687E09B202"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9335B415-C1DE-415F-840D-062A278FEFF3"
+    }
+  ],
+  "name": "visualMobileBundle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FCF70A0-5D31-4EB9-B2BB-F649E6429CC6",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "do_objectID": "EB6E2415-75BC-4B92-902C-029DDA62E590",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13B07173-E709-4CE4-86EF-B4572C1BE89E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CEC3242-6DBB-4689-9A2C-8B19A5D4F11C",
+    "height": 52,
+    "width": 49,
+    "x": 7.603555180287003,
+    "y": 6.435332588385791
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "296E7DAF-7DE7-49EF-8049-FA8644FB6DF0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73F12159-E69C-49DA-960D-91620BD806B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A625C0D0-1107-4868-A13A-52F74557E3EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B0E79018-2685-42C9-B838-484DF52CB44A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39FC9493-A1A3-47A0-8144-B8709C74FA8A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "04F4D4D2-7350-4E86-B24B-5C9DFE049711"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "005B3A9D-7113-4EB8-A0D4-877967B6BFD9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3F37872-0562-4618-A02A-917BEB5DE390"
+    }
+  ],
+  "name": "bell",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1843E856-6434-427A-857B-B77C3233426F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 9.216,
+      "type": 0
+    },
+    "do_objectID": "B26B28BB-21E2-472F-8A19-748FF3FACCA5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "FC3BC77E-99FA-43EF-AEF2-06719AC9E9FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ECFFB03B-0C11-41D3-BF03-B39B45CFDE42",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6355144-D21A-498C-ADBF-8E5141DB3B80",
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "11035416-45E2-47C8-9EBE-9A2349917234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D20C15B0-E4B8-4370-AF54-44FC128384E4"
+    }
+  ],
+  "name": "status_bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AFA05DF9-BF03-40E7-BE9D-40091B5FDE6F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C6FA8A48-542B-464A-A71D-C4D5121699BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "140AEF07-1215-4A9C-BC06-CF149E1EB125",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "98D6373F-60CC-4714-9F3E-59B1662EE3C4",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "navBar/standard/light",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E492D6EB-7C04-401F-884D-2624EAB263B8_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89D1F162-9FB0-4EAF-93AE-3C365E8CA76C",
+      "overrideName": "24BC969D-C68F-4718-A6C4-F6B4633EBB67_stringValue",
+      "value": "網購"
+    }
+  ],
+  "overrides": {
+    "24BC969D-C68F-4718-A6C4-F6B4633EBB67": "網購",
+    "B4A2A0C0-2F2F-43EF-8FA5-F251D2ADE7DE": " ",
+    "E492D6EB-7C04-401F-884D-2624EAB263B8": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F45489B9-124A-4B91-825F-C363DC76EED5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "05B8E889-2C87-4EFD-BC30-139F625FAC28",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

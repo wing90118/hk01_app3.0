@@ -1,0 +1,131 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0BFBF67C-B68F-42B7-8A00-42F0EA8CBED2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8513D83-5F15-4231-8926-B8A157A3E3B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FB2BADA-2004-41D3-BC87-6891D474C4F7",
+    "height": 129,
+    "width": 375,
+    "x": 0,
+    "y": 254
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/comment",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D46878E-283C-45CC-8D61-1E5C4198B477/252B6716-9660-439F-BCCE-BEE98744357C_symbolID",
+      "value": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D46878E-283C-45CC-8D61-1E5C4198B477/136F637A-6851-45F8-A1F4-105A15C9CD83_symbolID",
+      "value": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D46878E-283C-45CC-8D61-1E5C4198B477/136F637A-6851-45F8-A1F4-105A15C9CD83/BAC280B8-B732-439D-BAFA-807B33972E24_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cfcf056607468c4837b910967777b4e130cdfbaa",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0D46878E-283C-45CC-8D61-1E5C4198B477/FF4DCF44-4732-4776-8BA9-0554A078B10D_symbolID",
+      "value": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7C381F2D-1520-4FA0-A8E1-0CABCCEBAFB4/C77899FD-AD72-45B9-BA3E-3DDB961A55BF/BAC280B8-B732-439D-BAFA-807B33972E24_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6ac11cb0bf2479eef5f6a34ea099435c4aa1b6e9",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5000E1E5-CBA6-4CC4-8106-F521420B34AB_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "66435ED6-1D36-4224-8FC9-D8063FBC81F2_stringValue",
+      "value": "黃澤明"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CB9F8E7D-EA0F-4B7F-B31F-172102076CF3_stringValue",
+      "value": "一群以政治包裝像黑社會般的暴徒。😕😕😕"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "90E055EB-15B8-4E1A-82B0-0AC82E05E56B_stringValue",
+      "value": "2018-01-19"
+    }
+  ],
+  "overrides": {
+    "0D46878E-283C-45CC-8D61-1E5C4198B477": {
+      "136F637A-6851-45F8-A1F4-105A15C9CD83": {
+        "BAC280B8-B732-439D-BAFA-807B33972E24": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/cfcf056607468c4837b910967777b4e130cdfbaa",
+          "_ref_class": "MSImageData"
+        },
+        "symbolID": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+      },
+      "252B6716-9660-439F-BCCE-BEE98744357C": {
+        "symbolID": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+      },
+      "FF4DCF44-4732-4776-8BA9-0554A078B10D": {
+        "symbolID": "9A121EB9-8311-4BD4-A6AC-FC00CAD37F03"
+      }
+    },
+    "5000E1E5-CBA6-4CC4-8106-F521420B34AB": "2",
+    "66435ED6-1D36-4224-8FC9-D8063FBC81F2": "黃澤明",
+    "7C381F2D-1520-4FA0-A8E1-0CABCCEBAFB4": {
+      "C77899FD-AD72-45B9-BA3E-3DDB961A55BF": {
+        "BAC280B8-B732-439D-BAFA-807B33972E24": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/6ac11cb0bf2479eef5f6a34ea099435c4aa1b6e9",
+          "_ref_class": "MSImageData"
+        }
+      }
+    },
+    "90E055EB-15B8-4E1A-82B0-0AC82E05E56B": "2018-01-19",
+    "CB9F8E7D-EA0F-4B7F-B31F-172102076CF3": "一群以政治包裝像黑社會般的暴徒。😕😕😕"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A334BDE-B74F-410A-8B6A-833686895DB9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "11FF55EE-65E1-44DD-B861-BE6142DE195F",
+  "verticalSpacing": 0
+}

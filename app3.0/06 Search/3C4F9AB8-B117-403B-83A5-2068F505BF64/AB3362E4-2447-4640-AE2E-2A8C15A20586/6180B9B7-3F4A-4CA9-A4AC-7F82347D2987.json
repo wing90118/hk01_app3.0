@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6180B9B7-3F4A-4CA9-A4AC-7F82347D2987",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "404842AA-595E-4989-ACAA-58D1759DD318",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FCEE9D5-EDF3-4B40-B5F3-B6E05F091CAC",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 472
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA587F59-AB17-4E1E-811D-3683EFD8D371_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9306683E-D1FA-4ED2-885B-F928CC89DEBE_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9F61FBB0-0EE6-44E9-8AC8-1AE5F00DE346_stringValue",
+      "value": "朝鮮冬奧藝術團擬赴韓表演兩場　二月首爾江陵演出"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "926821FB-367B-4618-8540-3398414AC2C6_stringValue",
+      "value": "國際"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6718C134-E5B2-4FF5-8974-8392832ED577_stringValue",
+      "value": "2018-01-24"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "366F72D0-5ECB-45C5-9994-B264B9C5536E/3FF16639-D265-4B0D-A6C2-6EAE3E0324E8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/206d1e05b5680e1714bba024c7e9ce4bf438652b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "286F414F-6E96-4039-BD02-5B059711F7A1",
+      "overrideName": "7228A1FB-8DF8-4BDC-914C-D108F5C0A50C_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "366F72D0-5ECB-45C5-9994-B264B9C5536E": {
+      "3FF16639-D265-4B0D-A6C2-6EAE3E0324E8": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/206d1e05b5680e1714bba024c7e9ce4bf438652b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "6718C134-E5B2-4FF5-8974-8392832ED577": "2018-01-24",
+    "7228A1FB-8DF8-4BDC-914C-D108F5C0A50C": {
+      "symbolID": ""
+    },
+    "926821FB-367B-4618-8540-3398414AC2C6": "國際",
+    "9306683E-D1FA-4ED2-885B-F928CC89DEBE": {
+      "symbolID": ""
+    },
+    "9F61FBB0-0EE6-44E9-8AC8-1AE5F00DE346": "朝鮮冬奧藝術團擬赴韓表演兩場　二月首爾江陵演出",
+    "EA587F59-AB17-4E1E-811D-3683EFD8D371": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D9E86F86-4DD4-460D-8372-0F0D3C404C5A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

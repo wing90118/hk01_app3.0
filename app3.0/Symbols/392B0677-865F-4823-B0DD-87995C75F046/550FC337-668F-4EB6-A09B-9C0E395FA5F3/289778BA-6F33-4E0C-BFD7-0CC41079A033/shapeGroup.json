@@ -1,0 +1,87 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "289778BA-6F33-4E0C-BFD7-0CC41079A033",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0CDB4FC1-2E05-4153-8B58-92A1F64BD2F4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "164FD9D5-AB08-4332-B5AD-199B67AA7489",
+    "height": 9.000000000000004,
+    "width": 13,
+    "x": 71,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "67756AEC-3CE4-4611-97AC-7BC28265CE0B"
+    },
+    {
+      "class": "shapePath",
+      "id": "A1A67EAF-4D67-4FA6-B950-FA68650E227F"
+    },
+    {
+      "class": "shapePath",
+      "id": "6DBB0235-13DB-4311-991B-4131A3876953"
+    }
+  ],
+  "name": "Wi-Fi",
+  "nameIsFixed": true,
+  "originalObjectID": "CE604075-E7C9-421D-9311-58FA7B5555DB",
+  "resizingConstraint": 41,
+  "resizingType": 3,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "2CB0A734-5D37-4B65-B401-C0BFD1533045",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.979428817286283,
+      "type": 0
+    },
+    "do_objectID": "4F246592-241A-4053-B2CA-CF5DB7A19279",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.05882352941176471,
+          "green": 0.02745098039215689,
+          "red": 0.01176470588235294
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

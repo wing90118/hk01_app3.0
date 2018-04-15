@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D82DE8AF-5FE5-4412-BAA8-BA6A7EB04DDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE1DFF45-9122-46FA-A616-7239A9A83A12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C091A95-75B1-473D-AD9E-B0B9FF718841",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 30
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "listing/article/small/standard",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CDF376B5-D117-4424-9CE3-DA7A3CFAA171_stringValue",
+      "value": "特朗普稱國情咨文觀眾人數創歷年新高　外界質疑他或自我吹噓"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CE8E8F05-A28C-4610-8AED-094121543ACC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D/833000CD-8164-4220-B105-762AD891E84F_stringValue",
+      "value": "06:21"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A7A647AC-E6B9-4923-A65B-85C07D718C52_stringValue",
+      "value": "2018-02-02"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68E9AEF3-6058-40A7-AB0C-22526B77881F_stringValue",
+      "value": "國際"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D/76B0EAC2-48C3-4C7C-A8BF-A3DD288878B0_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D4B21417-753A-4631-95F9-9D7CC9066D2D_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "13D2180C-2D97-417C-B1AE-818FB90F7398",
+      "overrideName": "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF/3FF16639-D265-4B0D-A6C2-6EAE3E0324E8_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/569c02ae5492d9784af7dadd12120fa34ecafef2",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "22FA65B3-DC33-4C92-BC84-AE36AC2F9ADF": {
+      "3FF16639-D265-4B0D-A6C2-6EAE3E0324E8": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/569c02ae5492d9784af7dadd12120fa34ecafef2",
+        "_ref_class": "MSImageData"
+      }
+    },
+    "68E9AEF3-6058-40A7-AB0C-22526B77881F": "國際",
+    "A7A647AC-E6B9-4923-A65B-85C07D718C52": "2018-02-02",
+    "CDF376B5-D117-4424-9CE3-DA7A3CFAA171": "特朗普稱國情咨文觀眾人數創歷年新高　外界質疑他或自我吹噓",
+    "CE8E8F05-A28C-4610-8AED-094121543ACC": {
+      "symbolID": ""
+    },
+    "D4B21417-753A-4631-95F9-9D7CC9066D2D": {
+      "76B0EAC2-48C3-4C7C-A8BF-A3DD288878B0": {
+        "symbolID": ""
+      },
+      "833000CD-8164-4220-B105-762AD891E84F": "06:21",
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28C1EF21-EBA5-4C31-A74A-6C65DAEF335C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "268302B3-55F8-4CC3-8C1C-9BFD5CD5C3DC",
+  "verticalSpacing": 0
+}
